@@ -2,9 +2,7 @@
 Somes simple analyses of the staff network at my organisation designed to help me to better target internal communications.
 
 ## Setup Instructions
-To run the Jupyter notebook on your own machine, you will need to have installed:
-* Python 3.5 or 3.6.
-* The following libraries:
+To run the Jupyter notebook on your own machine, you will need to have installed Python 3.5 or 3.6. and the following libraries:
 - pandas (for data frames and simple statistics)
 - numpy (for vector and matrix computations)
 - plotly (for interactive plots)
