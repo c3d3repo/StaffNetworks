@@ -20,3 +20,7 @@ Anaconda should already have all the libraries installed, but if you get an erro
 ```
 conda install networkx
 ```
+
+## View Jupyter notebook online
+
+You can view the jupyter notebook online using [nbviewer](https://nbviewer.jupyter.org/github/c3d3repo/StaffNetworks/blob/master/StaffNetworks-External.ipynb).
