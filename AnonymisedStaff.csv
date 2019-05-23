@@ -1,0 +1,3138 @@
+ID,Department,Manager,Location,DataFan
+499,DivisionX,0,Madrid,no
+939,DivisionX,0,Madrid,no
+1918,Customer Services,2,Birmingham,no
+1265,Customer Services,2,Birmingham,no
+1208,Customer Services,2,Birmingham,no
+2106,DivisionX,3,India Operations Centre,no
+2638,DivisionX,3,India Operations Centre,no
+474,DivisionX,7,New York,no
+1522,DivisionX,7,New York,no
+2862,DivisionX,7,Birmingham,no
+916,DivisionX,7,Birmingham,no
+2902,DivisionX,7,Birmingham,no
+498,DivisionY,13,New York,no
+727,DivisionY,13,Birmingham,no
+61,DivisionY,13,Birmingham,yes
+2025,DivisionY,13,Birmingham,no
+2310,Operations,15,New York,no
+2901,Finance,18,Mexico City,no
+1389,Finance,18,Mexico City,no
+2139,Finance,18,Mexico City,no
+1922,Finance,18,Mexico City,no
+2221,Finance,18,Mexico City,no
+261,Finance,18,Mexico City,no
+127,Finance,18,Mexico City,no
+3081,Technology,41,Birmingham,no
+2986,Finance,43,Sao Paulo,no
+3340,Finance,43,Sao Paulo,no
+1711,Finance,43,Sao Paulo,no
+2865,Finance,43,Sao Paulo,no
+2976,Training,48,Cape Town,no
+1774,Finance,48,Cape Town,no
+3070,DivisionY,58,Birmingham,no
+784,DivisionY,58,Birmingham,no
+1858,DivisionY,58,Birmingham,no
+2088,DivisionY,58,New York,no
+3292,DivisionY,58,Birmingham,no
+1393,DivisionX,64,Madrid,no
+752,DivisionX,64,Madrid,no
+75,Operations,76,Madrid,no
+1610,Operations,76,Birmingham,no
+868,Operations,76,Birmingham,no
+2543,Operations,76,Birmingham,no
+2760,Operations,76,Singapore,no
+659,DivisionY,77,Birmingham,no
+764,DivisionY,77,Birmingham,no
+2736,DivisionY,77,Birmingham,no
+2734,Customer Services,79,New York,no
+102,DivisionY,86,Birmingham,no
+1677,DivisionY,86,Birmingham,no
+3297,DivisionY,86,Birmingham,no
+847,DivisionX,87,Birmingham,no
+3294,DivisionX,87,Birmingham,no
+3310,Technology,90,Manila,no
+2529,Technology,90,Manila,no
+591,Technology,90,Manila,no
+2588,DivisionX,97,Birmingham,no
+1702,DivisionX,97,Birmingham,no
+365,Technology,104,Birmingham,no
+1562,Technology,104,Birmingham,no
+2648,Technology,104,Manila,no
+850,DivisionX,108,New Delhi,no
+962,DivisionX,108,Kolkata,no
+1174,Technology,113,Manila,no
+212,Technology,113,Manila,no
+1534,DivisionX,117,Birmingham,yes
+2482,DivisionX,117,Madrid,no
+2445,DivisionX,117,Birmingham,no
+398,DivisionX,117,Madrid,no
+1400,DivisionY,122,New York,no
+2351,DivisionY,122,New York,no
+467,DivisionY,122,Birmingham,no
+2909,DivisionY,122,Birmingham,no
+138,DivisionY,122,New York,no
+2978,DivisionY,122,Birmingham,no
+3047,DivisionY,122,New York,no
+535,DivisionY,122,Birmingham,no
+2072,DivisionY,124,Birmingham,yes
+107,DivisionY,124,Birmingham,no
+2205,DivisionY,124,Birmingham,yes
+1726,DivisionY,124,Birmingham,yes
+3219,Training,126,Port Melbourne,no
+2045,Training,126,Port Melbourne,no
+1367,Training,126,Port Melbourne,no
+2544,Training,126,Port Melbourne,no
+2539,Training,126,Port Melbourne,no
+2196,Training,126,Port Melbourne,no
+2883,Training,126,Port Melbourne,no
+19,Training,126,Port Melbourne,no
+2525,Training,126,Port Melbourne,no
+80,Training,126,Port Melbourne,no
+1308,Training,126,Port Melbourne,no
+3006,Training,128,New Delhi,no
+2004,DivisionX,133,New York,no
+812,Technology,139,Birmingham,no
+1615,Technology,139,Birmingham,no
+1733,Technology,139,Birmingham,no
+1871,DivisionX,140,Birmingham,no
+2319,DivisionX,140,Birmingham,no
+2395,DivisionX,140,Birmingham,no
+1396,DivisionX,140,Birmingham,no
+2301,DivisionX,140,Birmingham,no
+2038,Technology,147,Birmingham,no
+2093,Technology,147,Manila,no
+273,Technology,147,Kolkata,no
+901,Technology,147,Kolkata,no
+2894,Technology,147,Kolkata,no
+1413,Technology,147,Kolkata,no
+2111,Technology,147,Kolkata,no
+2859,Technology,147,Kolkata,no
+328,Technology,147,Kolkata,no
+638,Technology,147,Kolkata,no
+1485,Technology,147,Kolkata,no
+2765,Training,150,Birmingham,no
+3280,DivisionX,162,Mexico City,no
+567,DivisionX,162,Mexico City,no
+2634,DivisionX,162,Mexico City,no
+2509,DivisionX,162,Mexico City,no
+913,DivisionX,162,Mexico City,no
+54,DivisionX,162,Mexico City,no
+3084,DivisionX,162,Mexico City,no
+689,DivisionX,162,Mexico City,no
+583,DivisionX,168,Mexico City,no
+2274,Facilities,168,Mexico City,no
+2584,DivisionY,171,Birmingham,no
+1237,DivisionY,171,Birmingham,no
+828,DivisionY,171,Birmingham,no
+1189,DivisionY,171,Birmingham,no
+1838,DivisionY,171,Birmingham,no
+1420,DivisionX,173,Mexico City,no
+1888,Technology,178,Manila,no
+1361,Technology,178,Manila,no
+248,Technology,178,Manila,no
+1428,Technology,178,Manila,no
+79,Customer Services,184,New York,no
+3152,Customer Services,184,Birmingham,no
+1092,Customer Services,184,Birmingham,no
+2592,Customer Services,184,Birmingham,no
+1022,Customer Services,184,Birmingham,no
+1354,Operations,184,Singapore,no
+1460,Customer Services,184,Birmingham,no
+2842,Customer Services,184,Manila,no
+1073,Customer Services,184,Birmingham,no
+881,Technology,185,Manila,no
+1229,Technology,185,Manila,no
+562,Technology,185,Manila,no
+735,Sales,186,Birmingham,no
+1140,Sales,186,Birmingham,no
+2281,Sales,186,Birmingham,no
+2273,Sales,186,Birmingham,no
+1756,Sales,186,Birmingham,no
+2261,Sales,186,Birmingham,no
+843,DivisionX,190,Istanbul,no
+477,DivisionX,190,Istanbul,no
+827,DivisionX,190,Istanbul,no
+346,Communications,197,Birmingham,no
+704,DivisionX,210,Birmingham,no
+245,DivisionX,210,Birmingham,no
+2028,DivisionX,210,Beijing,no
+982,DivisionX,210,Bangkok,no
+946,DivisionX,210,Birmingham,no
+2030,DivisionX,210,Birmingham,no
+1063,DivisionX,210,Birmingham,no
+2675,Facilities,214,Birmingham,no
+2160,HR,214,Birmingham,no
+679,DivisionY,214,Birmingham,no
+587,HR,214,Manila,no
+2726,Marketing,214,Birmingham,no
+1335,Marketing,214,Birmingham,no
+2207,HR,214,Manila,no
+2462,HR,214,Manila,no
+1625,HR,214,Birmingham,no
+1268,HR,214,Birmingham,no
+2655,DivisionX,220,Birmingham,no
+1199,DivisionX,220,Birmingham,no
+3005,DivisionX,220,Birmingham,no
+895,Technology,223,Birmingham,no
+2871,DivisionY,223,Birmingham,no
+2502,Technology,223,Birmingham,no
+10,Technology,223,Birmingham,no
+68,Technology,223,Birmingham,no
+2880,Technology,223,Birmingham,no
+2759,Technology,223,Birmingham,no
+18,Finance,224,Mexico City,no
+966,Technology,226,Manila,no
+597,Technology,226,Manila,no
+161,Technology,227,Manila,no
+900,Technology,227,Manila,no
+2939,Technology,227,Manila,no
+666,Technology,227,Manila,no
+681,Technology,227,Manila,no
+1710,Technology,227,Manila,no
+389,DivisionX,245,Birmingham,no
+3291,DivisionX,245,Birmingham,no
+1188,DivisionX,245,Birmingham,no
+882,DivisionY,247,Birmingham,no
+3075,DivisionY,247,Birmingham,no
+417,Training,252,Thiruvananthapuram,no
+3204,Training,252,Thiruvananthapuram,no
+513,Training,252,Thiruvananthapuram,no
+770,Training,252,New Delhi,no
+1914,Training,252,Thiruvananthapuram,no
+1577,Training,265,Cape Town,no
+2496,Training,265,Cape Town,no
+140,DivisionX,268,Birmingham,no
+1785,Training,270,Mumbai,no
+2130,DivisionY,274,Birmingham,no
+954,DivisionY,274,Birmingham,no
+3324,DivisionY,274,Birmingham,no
+2989,DivisionY,274,New York,no
+2948,DivisionY,274,New York,no
+2643,DivisionY,274,Birmingham,no
+2042,DivisionY,274,Birmingham,no
+307,DivisionY,274,Birmingham,no
+366,Finance,280,Manila,no
+2956,DivisionY,284,Birmingham,no
+1688,Technology,286,Manila,no
+1751,Technology,290,Birmingham,no
+678,Technology,290,Manila,no
+2175,Technology,290,Birmingham,no
+2626,Technology,290,Birmingham,no
+885,Technology,290,Birmingham,no
+2290,Technology,290,Birmingham,no
+1289,DivisionY,309,New York,no
+1523,DivisionY,309,Canada,no
+2838,DivisionY,309,New York,no
+1107,DivisionX,316,Madrid,no
+3254,DivisionX,316,Madrid,no
+780,Training,319,Birmingham,no
+1588,Training,319,Birmingham,no
+2173,Training,319,Birmingham,no
+3106,Training,319,Birmingham,no
+1901,Training,319,Birmingham,no
+2061,Training,319,Birmingham,no
+3345,Technology,320,Birmingham,no
+3351,Technology,320,Birmingham,no
+2632,Technology,320,Birmingham,no
+2969,DivisionY,323,New York,no
+2348,DivisionY,323,New York,no
+1018,DivisionY,323,Birmingham,no
+933,Customer Services,330,Gauteng,no
+1117,Training,330,Cape Town,no
+2723,DivisionX,332,Quito,no
+1444,DivisionX,332,Lima,no
+1683,DivisionX,332,Mexico City,no
+2024,DivisionX,332,Mexico City,no
+111,DivisionX,332,Mexico City,no
+38,DivisionX,332,Mexico City,no
+162,DivisionX,332,Mexico City,no
+2728,DivisionX,332,Bogota,no
+2349,DivisionX,332,Mexico City,no
+2243,Training,335,New Delhi,no
+628,Training,335,New Delhi,no
+496,Technology,337,Birmingham,no
+2471,Technology,337,Manila,no
+3334,Technology,337,Madrid,no
+485,Technology,337,Manila,no
+1875,Technology,337,Madrid,no
+2306,Training,342,Birmingham,no
+1185,Training,342,Birmingham,no
+2569,Training,342,Birmingham,no
+3206,Training,345,New Delhi,no
+2070,Technology,353,Birmingham,no
+2947,Technology,353,Birmingham,no
+2977,Technology,353,Birmingham,yes
+823,Finance,362,New Delhi,no
+2009,Finance,362,New Delhi,no
+2287,Finance,362,New Delhi,no
+3079,Finance,362,New Delhi,no
+1611,Finance,362,New Delhi,no
+2808,Finance,362,New Delhi,no
+662,Technology,364,Manila,no
+3328,Technology,364,Manila,no
+1506,Technology,364,Manila,no
+745,DivisionY,369,Birmingham,yes
+1059,DivisionY,369,Birmingham,no
+1970,DivisionY,369,Birmingham,no
+2724,DivisionY,369,Birmingham,no
+77,DivisionY,369,Birmingham,no
+1070,DivisionY,369,Birmingham,no
+3073,DivisionY,369,Birmingham,no
+1439,DivisionY,369,Birmingham,yes
+1442,DivisionY,369,Birmingham,no
+1655,DivisionY,370,Birmingham,no
+2823,Training,372,Birmingham,no
+1221,Finance,374,Birmingham,no
+3121,Finance,374,Birmingham,no
+2830,Finance,374,Birmingham,no
+1908,Finance,374,Birmingham,no
+2612,Finance,374,Birmingham,no
+903,Finance,374,Birmingham,no
+2936,Finance,374,Birmingham,no
+2483,Finance,374,Birmingham,no
+1138,Finance,374,Birmingham,no
+2915,DivisionY,383,Birmingham,yes
+853,PR,385,Birmingham,no
+2103,Operations,385,Birmingham,no
+2124,DivisionX,385,Birmingham,no
+2601,Technology,385,Birmingham,no
+385,PR,385,Birmingham,no
+515,HR,385,Birmingham,no
+1017,Finance,385,Birmingham,no
+1567,PR,385,Birmingham,no
+589,DivisionY,385,Birmingham,no
+737,Operations,385,Birmingham,no
+2527,Training,385,Birmingham,no
+1925,Legal,385,Birmingham,no
+1219,DivisionX,389,Birmingham,no
+1630,DivisionX,389,Birmingham,no
+570,Technology,391,Birmingham,no
+1310,Technology,391,Birmingham,no
+2970,Operations,393,Birmingham,no
+922,Operations,393,India Operations Centre,no
+1890,Operations,393,Birmingham,no
+1776,Operations,393,India Operations Centre,no
+2134,Operations,393,India Operations Centre,no
+1339,Operations,393,India Operations Centre,no
+680,Operations,393,Hyderabad,no
+481,Operations,393,Hyderabad,no
+2955,Operations,393,India Operations Centre,no
+707,Operations,393,Birmingham,no
+831,Operations,393,India Operations Centre,no
+2493,Operations,393,India Operations Centre,no
+3199,Operations,393,India Operations Centre,no
+1909,Operations,393,India Operations Centre,no
+152,Operations,393,India Operations Centre,no
+789,Operations,393,India Operations Centre,no
+2828,Operations,393,India Operations Centre,no
+1873,Operations,393,India Operations Centre,no
+1672,Operations,393,India Operations Centre,no
+2669,Operations,393,India Operations Centre,no
+1515,DivisionX,399,Birmingham,no
+3129,DivisionX,399,Birmingham,no
+306,DivisionX,399,Birmingham,no
+175,DivisionX,399,Birmingham,no
+1783,DivisionX,399,Birmingham,no
+1124,DivisionX,399,Birmingham,no
+1743,Training,409,Cape Town,no
+993,Training,409,Cape Town,no
+1823,Training,409,Cape Town,no
+3046,Training,409,Cape Town,no
+714,Training,409,Cape Town,no
+303,DivisionX,419,India Operations Centre,no
+1997,DivisionX,419,Birmingham,no
+676,DivisionX,422,Switzerland,no
+825,DivisionX,422,France,no
+774,DivisionX,422,France,no
+920,DivisionX,422,Amsterdam,no
+3317,DivisionX,422,Switzerland,no
+893,DivisionX,423,Madrid,no
+734,DivisionX,423,Madrid,no
+556,DivisionX,423,Madrid,no
+1397,Operations,423,Madrid,no
+1006,Customer Services,424,Birmingham,no
+2817,Customer Services,424,Birmingham,no
+525,Customer Services,424,Birmingham,no
+904,Customer Services,424,Birmingham,no
+3316,Customer Services,424,Birmingham,no
+790,Customer Services,424,Birmingham,no
+2816,Customer Services,424,Birmingham,no
+1821,DivisionX,425,Madrid,no
+3104,DivisionX,425,Madrid,no
+3076,DivisionX,425,Madrid,no
+194,DivisionX,425,Madrid,no
+1664,DivisionX,425,Madrid,no
+1772,DivisionX,425,Madrid,no
+1984,DivisionX,425,Madrid,no
+1855,DivisionX,425,Madrid,no
+889,DivisionX,425,Madrid,no
+1552,DivisionX,425,Madrid,no
+116,DivisionX,425,Madrid,no
+1841,DivisionX,425,Madrid,no
+1768,DivisionX,425,Madrid,no
+1762,DivisionX,425,Madrid,no
+2218,DivisionX,425,Madrid,no
+55,DivisionX,429,Birmingham,no
+600,DivisionX,429,Mexico City,no
+2184,DivisionY,431,Birmingham,yes
+3344,DivisionX,439,Madrid,no
+73,DivisionX,439,Madrid,no
+2547,DivisionX,439,Madrid,no
+1024,Training,441,Birmingham,no
+2534,Training,441,Birmingham,no
+1940,Training,441,Birmingham,no
+2964,Training,441,Birmingham,yes
+2780,Training,441,Birmingham,no
+3171,DivisionX,446,Dubai,no
+57,Technology,449,Birmingham,no
+2803,Technology,449,Birmingham,yes
+859,Technology,449,Birmingham,yes
+2206,Technology,449,Birmingham,no
+1148,Technology,449,Birmingham,no
+616,Technology,449,Birmingham,no
+2879,Technology,451,Manila,no
+700,Technology,451,Manila,no
+1193,Technology,451,Manila,no
+914,Technology,451,Manila,no
+2193,Technology,455,Birmingham,no
+2374,Technology,455,Birmingham,no
+860,Customer Services,458,Manila,no
+2044,Customer Services,458,Manila,no
+3011,Customer Services,458,Manila,no
+2364,Customer Services,458,Manila,no
+198,Customer Services,458,Manila,no
+1030,Customer Services,458,Manila,no
+3155,Customer Services,458,Manila,no
+2757,Customer Services,458,Manila,no
+109,Sales,460,Birmingham,no
+186,Sales,460,Birmingham,no
+1827,Sales,460,Birmingham,no
+2742,Sales,460,Birmingham,no
+2990,Sales,460,Birmingham,no
+1165,Sales,460,Birmingham,no
+2407,Sales,460,Birmingham,no
+969,Sales,460,Birmingham,no
+2891,DivisionX,462,Birmingham,no
+3057,DivisionY,463,Birmingham,no
+658,DivisionY,463,Birmingham,no
+1184,DivisionY,463,Birmingham,no
+1999,DivisionY,463,Birmingham,no
+1735,DivisionY,463,Birmingham,no
+995,DivisionY,463,India Operations Centre,no
+2220,DivisionY,463,Hyderabad,no
+2732,DivisionY,463,India Operations Centre,no
+3234,DivisionY,463,India Operations Centre,no
+669,DivisionY,463,Birmingham,no
+989,DivisionY,463,Birmingham,no
+1425,Technology,471,Manila,no
+11,Technology,471,Manila,no
+1195,Technology,471,Manila,no
+27,Technology,471,Manila,no
+457,Technology,471,Manila,no
+1874,Technology,471,Manila,no
+1926,Technology,471,Manila,no
+47,DivisionX,474,New York,no
+3027,DivisionX,474,New York,no
+2484,DivisionX,474,New York,no
+2829,Training,486,Birmingham,no
+653,Training,486,Birmingham,no
+1848,DivisionX,489,Kuala Lumpur,no
+585,DivisionX,491,Birmingham,no
+1897,DivisionX,491,Birmingham,no
+1556,DivisionX,491,Birmingham,no
+3211,DivisionX,491,Birmingham,no
+1741,DivisionX,491,India Operations Centre,no
+1568,Technology,496,Birmingham,no
+2313,Technology,496,Birmingham,no
+998,Technology,496,Birmingham,no
+2029,DivisionY,504,New York,no
+1877,DivisionY,504,Birmingham,no
+2210,DivisionY,504,Birmingham,no
+1678,DivisionY,504,Birmingham,no
+688,Training,509,Pakistan,no
+852,Training,509,Pakistan,no
+2644,Training,509,Pakistan,no
+984,Training,509,Pakistan,no
+1659,DivisionX,510,Istanbul,no
+3116,DivisionY,512,Port Melbourne,no
+214,HR,515,Birmingham,no
+2946,Communications,515,Birmingham,no
+2582,Communications,515,Birmingham,no
+1328,HR,515,Birmingham,no
+1721,HR,515,Birmingham,yes
+2585,HR,515,Birmingham,no
+1260,HR,515,Manila,no
+1154,HR,515,New Delhi,no
+2389,HR,515,New York,no
+2113,Technology,517,Manila,no
+1055,Technology,517,Manila,no
+1264,Technology,517,Manila,no
+3080,Technology,517,Manila,no
+376,Technology,517,Manila,no
+1578,Technology,517,Manila,no
+208,DivisionX,522,New York,no
+397,DivisionX,522,New York,no
+1262,DivisionX,522,New York,no
+2636,Facilities,528,Singapore,no
+247,DivisionY,533,Birmingham,no
+3028,Technology,537,Birmingham,no
+1887,Technology,537,Hyderabad,no
+1052,Operations,539,Bengaluru,no
+155,Operations,539,Bengaluru,no
+1088,Customer Services,539,Bengaluru,no
+144,Customer Services,539,Bengaluru,no
+2331,Customer Services,539,Thiruvananthapuram,no
+2022,Operations,539,Bengaluru,no
+1623,Operations,539,Bengaluru,no
+114,Operations,539,Chennai,no
+1171,Operations,539,Chennai,no
+2174,Customer Services,539,Thiruvananthapuram,no
+1974,DivisionY,542,India Operations Centre,no
+1434,DivisionY,542,India Operations Centre,no
+84,DivisionY,542,India Operations Centre,no
+3146,DivisionY,542,India Operations Centre,no
+1113,DivisionY,542,India Operations Centre,no
+675,DivisionY,542,India Operations Centre,no
+2075,DivisionY,542,India Operations Centre,no
+2008,Finance,548,Birmingham,no
+1178,Finance,548,Birmingham,no
+2105,Finance,548,Birmingham,no
+2709,Finance,548,Manila,no
+272,Finance,548,Birmingham,no
+1355,Finance,548,Birmingham,no
+2192,DivisionY,549,Mexico City,no
+2885,DivisionY,549,New York,no
+1097,DivisionY,549,New York,no
+2605,Training,552,Birmingham,no
+1228,Training,552,Birmingham,no
+793,Training,552,Birmingham,no
+1362,Training,552,Birmingham,no
+372,Training,552,Birmingham,no
+3268,DivisionY,553,Birmingham,no
+1767,DivisionY,553,Birmingham,no
+892,DivisionY,553,Birmingham,no
+2422,DivisionY,553,New York,no
+425,DivisionX,556,Madrid,no
+66,DivisionX,556,Madrid,no
+3167,DivisionX,556,Madrid,no
+1587,DivisionX,556,Madrid,no
+632,DivisionX,556,Madrid,no
+664,DivisionX,556,Madrid,no
+439,DivisionX,556,Madrid,no
+91,DivisionX,556,Madrid,no
+428,DivisionX,556,Madrid,no
+3078,DivisionX,556,Madrid,no
+3270,DivisionX,556,Madrid,no
+3015,DivisionX,556,Madrid,no
+326,Technology,561,Birmingham,no
+437,Technology,561,Birmingham,no
+1594,Technology,561,Manila,no
+244,Technology,561,Birmingham,no
+304,Technology,561,Manila,no
+2118,Technology,561,Birmingham,no
+1285,Finance,563,Madrid,no
+1137,DivisionX,563,Madrid,no
+2304,Finance,563,Madrid,no
+1619,DivisionX,563,Madrid,no
+2087,DivisionX,563,Madrid,no
+1332,DivisionX,563,Madrid,no
+1962,Technology,569,Manila,no
+965,Technology,569,Manila,no
+668,Technology,569,Manila,no
+1470,Technology,569,Manila,no
+1134,DivisionX,571,Birmingham,no
+2517,DivisionY,573,Birmingham,no
+281,DivisionY,573,New York,no
+2705,DivisionY,573,Birmingham,no
+1271,DivisionX,574,India Operations Centre,no
+1590,DivisionX,574,Birmingham,no
+864,DivisionX,574,India Operations Centre,no
+190,DivisionX,575,Istanbul,no
+2083,DivisionX,575,Istanbul,no
+821,DivisionX,575,Istanbul,no
+1433,DivisionX,575,Istanbul,no
+1700,DivisionX,578,Guangzhou,no
+877,Technology,581,Birmingham,no
+1194,Technology,581,Birmingham,no
+2930,Technology,581,Birmingham,no
+3285,Technology,581,Birmingham,no
+1334,Technology,581,Birmingham,no
+809,Technology,581,Birmingham,no
+3306,Technology,581,Birmingham,no
+3193,Technology,581,Birmingham,no
+93,Technology,581,Birmingham,no
+2242,Technology,581,Birmingham,no
+1183,Technology,581,Birmingham,no
+148,Technology,581,Birmingham,no
+1538,Technology,581,Birmingham,no
+211,Technology,581,Birmingham,no
+1674,Technology,581,Birmingham,no
+158,Technology,581,Birmingham,no
+470,Technology,581,New Delhi,no
+2546,Technology,581,New Delhi,no
+1778,Technology,581,New Delhi,no
+1660,Technology,581,Birmingham,no
+1598,Technology,581,Birmingham,no
+1595,Technology,581,Birmingham,no
+3165,Technology,581,New Delhi,no
+1589,Technology,581,Madrid,no
+2114,Technology,581,Madrid,no
+1392,Technology,581,Madrid,no
+817,Technology,581,Madrid,no
+3114,Technology,581,Madrid,no
+2811,Technology,581,Madrid,no
+912,Technology,581,Madrid,no
+1584,Technology,581,Madrid,no
+312,Technology,581,Madrid,no
+1451,Technology,581,Madrid,no
+1521,Technology,581,Birmingham,no
+1166,Technology,581,Madrid,no
+2149,Technology,581,Madrid,no
+840,Technology,581,New Delhi,no
+795,Technology,581,New Delhi,no
+930,Technology,581,New Delhi,no
+2425,Technology,581,Madrid,no
+3041,Technology,581,Madrid,no
+1056,Technology,581,Madrid,no
+3007,Technology,581,Birmingham,no
+1239,Technology,581,Madrid,no
+2792,Technology,581,New York,no
+3086,DivisionX,585,Birmingham,no
+2376,DivisionX,585,Birmingham,no
+3034,DivisionX,585,India Operations Centre,no
+1681,DivisionX,585,Madrid,no
+151,DivisionX,585,Madrid,no
+1759,DivisionX,585,Birmingham,no
+1554,DivisionX,585,Mexico City,no
+564,DivisionY,589,Birmingham,no
+369,DivisionY,589,Birmingham,yes
+1314,DivisionY,589,Birmingham,no
+2360,DivisionY,589,Birmingham,no
+1358,DivisionY,589,Birmingham,no
+1910,DivisionY,589,Birmingham,no
+2076,DivisionY,589,New York,no
+2115,DivisionY,589,Birmingham,yes
+1604,DivisionX,592,India Operations Centre,no
+8,DivisionY,595,Birmingham,no
+1145,DivisionY,595,Birmingham,no
+1627,DivisionY,595,Birmingham,no
+1253,DivisionY,595,Birmingham,no
+2814,DivisionX,608,New York,no
+413,DivisionX,608,New York,no
+450,DivisionY,608,New York,no
+1061,DivisionY,608,New York,no
+2771,DivisionY,608,New York,no
+2967,DivisionX,608,New York,no
+2393,DivisionX,608,New York,no
+1689,DivisionX,608,New York,no
+1267,DivisionX,608,New York,no
+2005,DivisionX,608,New York,no
+3018,DivisionX,608,New York,no
+1021,DivisionX,608,New York,no
+1449,DivisionX,608,New York,no
+2505,DivisionX,608,New York,no
+2367,DivisionX,608,New York,no
+1719,Finance,609,Port Melbourne,no
+1525,Finance,614,Manila,no
+610,Finance,614,Birmingham,no
+1939,DivisionX,615,Madrid,no
+371,Customer Services,624,Nigeria,no
+1431,DivisionY,627,Birmingham,no
+2852,DivisionY,627,Birmingham,no
+1489,DivisionY,627,India Operations Centre,no
+1879,DivisionY,627,Birmingham,no
+163,DivisionX,629,Mexico City,no
+667,DivisionX,629,Madrid,no
+119,DivisionX,632,Madrid,no
+2392,DivisionX,632,Madrid,no
+3179,DivisionX,632,Madrid,no
+334,DivisionX,632,Madrid,no
+475,DivisionX,632,Madrid,no
+2906,DivisionX,632,Madrid,no
+1243,DivisionX,632,Madrid,no
+1725,DivisionY,633,New York,no
+1035,DivisionY,633,New York,no
+1390,DivisionY,633,Birmingham,no
+723,DivisionY,633,Birmingham,no
+3003,DivisionY,633,Birmingham,no
+1292,DivisionY,633,Birmingham,no
+1054,DivisionY,633,Birmingham,no
+1531,DivisionY,633,Birmingham,no
+2297,Training,642,Birmingham,no
+1639,Training,642,Birmingham,no
+323,DivisionY,644,Birmingham,no
+798,DivisionY,644,Birmingham,no
+2255,DivisionY,644,Birmingham,no
+2323,DivisionY,644,Birmingham,no
+747,DivisionY,644,New York,no
+1003,DivisionY,644,New York,no
+3085,DivisionY,644,Port Melbourne,no
+2432,DivisionY,644,Singapore,no
+633,DivisionY,644,Birmingham,no
+1029,DivisionY,646,Birmingham,no
+2055,DivisionY,646,Birmingham,no
+2682,DivisionY,646,Birmingham,no
+879,Technology,648,New York,no
+1273,Technology,648,New York,no
+3333,DivisionX,648,Mexico City,no
+2036,DivisionX,648,Mexico City,no
+1309,HR,649,Port Melbourne,no
+1675,DivisionX,656,Birmingham,no
+1343,DivisionY,659,Birmingham,no
+1104,DivisionY,659,Birmingham,no
+673,DivisionY,659,Birmingham,no
+3287,DivisionY,659,Birmingham,no
+2664,DivisionY,659,Birmingham,yes
+294,DivisionY,659,New York,no
+1441,Training,663,Bengaluru,no
+1612,Training,663,Thiruvananthapuram,no
+3284,Training,663,Kolkata,no
+2738,Training,663,Kolkata,no
+1868,Training,663,Chennai,no
+1581,Training,663,Mumbai,no
+979,Training,663,New Delhi,no
+1934,DivisionX,664,Madrid,no
+2499,DivisionX,664,Madrid,no
+1135,DivisionX,664,Madrid,no
+557,DivisionX,664,Madrid,no
+2355,DivisionX,664,Madrid,no
+1920,DivisionX,664,Madrid,no
+209,DivisionX,664,Madrid,no
+3090,DivisionX,676,Switzerland,no
+1865,DivisionX,676,Switzerland,no
+2077,Technology,678,Manila,no
+3293,Technology,678,Manila,no
+1641,Technology,678,Manila,no
+3061,Technology,678,Manila,no
+178,Technology,678,Manila,no
+1197,Technology,678,Manila,no
+1956,Technology,678,Manila,no
+2730,Technology,678,Manila,no
+3037,Technology,678,Manila,no
+435,Technology,678,Manila,no
+999,DivisionX,683,Birmingham,no
+1049,DivisionX,683,Mexico City,no
+3166,DivisionX,683,Sao Paulo,no
+2168,DivisionX,683,New York,no
+423,DivisionX,683,Madrid,no
+1083,DivisionX,690,Tokyo,no
+1156,DivisionX,690,Tokyo,no
+1202,DivisionX,690,Tokyo,no
+2254,DivisionX,690,Tokyo,no
+1709,DivisionX,690,Tokyo,no
+1961,DivisionX,690,Tokyo,no
+724,DivisionX,690,Tokyo,no
+1530,DivisionX,690,Tokyo,no
+493,DivisionX,692,Birmingham,no
+639,DivisionX,692,Birmingham,no
+2062,Finance,695,Birmingham,no
+1368,Finance,695,Birmingham,no
+2928,DivisionX,697,Birmingham,no
+2327,DivisionX,697,Birmingham,no
+311,DivisionX,698,Turin,no
+29,DivisionX,698,Turin,no
+2292,DivisionX,698,Turin,no
+2653,DivisionX,698,Turin,no
+1074,DivisionX,704,Mexico City,no
+3318,DivisionX,704,Mexico City,no
+1078,DivisionX,704,Mexico City,no
+2251,DivisionX,704,Mexico City,no
+2737,DivisionX,705,Moscow,no
+2437,DivisionX,705,Moscow,no
+2059,DivisionX,705,Moscow,no
+196,DivisionX,705,Moscow,no
+1731,DivisionX,705,Moscow,no
+131,DivisionX,705,Moscow,no
+897,DivisionX,705,Moscow,no
+1513,Technology,711,Manila,no
+822,Technology,711,Manila,no
+2097,DivisionX,719,Sao Paulo,no
+3115,DivisionX,719,Sao Paulo,no
+21,DivisionX,719,Sao Paulo,no
+39,DivisionX,719,Sao Paulo,no
+3304,DivisionX,719,Sao Paulo,no
+2971,DivisionX,719,Sao Paulo,no
+744,DivisionX,719,Sao Paulo,no
+1026,DivisionX,719,Sao Paulo,no
+3239,DivisionX,719,Sao Paulo,no
+3203,DivisionX,719,Sao Paulo,no
+206,DivisionX,719,Sao Paulo,no
+2204,DivisionX,719,Sao Paulo,no
+2586,DivisionX,719,Sao Paulo,no
+2841,DivisionX,719,Sao Paulo,no
+253,DivisionX,719,Sao Paulo,no
+576,DivisionX,719,Sao Paulo,no
+1998,DivisionX,719,Rio de Janeiro,no
+2377,DivisionX,719,Sao Paulo,no
+1657,Training,722,Birmingham,no
+1327,DivisionY,723,Birmingham,no
+2411,Technology,733,Birmingham,no
+2794,Technology,733,Birmingham,no
+2429,Technology,733,Birmingham,yes
+2652,Technology,733,Birmingham,no
+2621,Technology,733,Birmingham,no
+2452,Technology,733,Manila,no
+1244,Technology,733,Birmingham,no
+1112,Technology,733,Birmingham,no
+1387,DivisionX,734,Madrid,no
+811,DivisionX,734,Madrid,no
+2826,DivisionX,734,Madrid,no
+24,DivisionX,734,Madrid,no
+2073,Facilities,737,Birmingham,no
+460,Sales,737,Birmingham,no
+2620,DivisionX,738,Mexico City,no
+3355,DivisionX,738,Mexico City,no
+1553,DivisionY,745,Birmingham,no
+538,DivisionY,745,Birmingham,no
+23,DivisionY,747,New York,no
+370,DivisionY,747,Birmingham,yes
+491,DivisionX,753,Birmingham,no
+2363,DivisionX,753,Birmingham,no
+3140,DivisionX,753,Birmingham,no
+3082,DivisionX,753,Birmingham,no
+1051,DivisionY,765,Port Melbourne,no
+2126,DivisionY,765,Port Melbourne,no
+3053,DivisionY,765,Port Melbourne,no
+3108,DivisionX,769,Mumbai,no
+3162,DivisionX,769,Mumbai,no
+260,DivisionX,769,Mumbai,no
+1597,DivisionX,769,Mumbai,no
+1670,DivisionX,771,Madrid,no
+1105,DivisionX,771,Madrid,no
+2357,DivisionX,771,Madrid,no
+2263,DivisionY,773,New York,no
+627,DivisionY,773,Birmingham,no
+1842,DivisionY,773,Birmingham,no
+2444,DivisionX,774,France,no
+2679,DivisionX,774,France,no
+2785,Technology,775,Birmingham,no
+1649,Technology,775,Birmingham,no
+1505,Technology,775,Birmingham,no
+1071,Technology,775,Birmingham,no
+2102,Technology,775,Birmingham,no
+2006,Technology,775,Birmingham,no
+333,Technology,777,Birmingham,no
+1663,Technology,777,Birmingham,no
+1181,Technology,777,Birmingham,no
+1455,Technology,777,Birmingham,no
+947,Training,780,India Operations Centre,no
+2900,Technology,782,Manila,no
+3220,Technology,782,Manila,no
+1383,Technology,782,Manila,no
+1175,Technology,782,Manila,no
+517,Technology,782,Manila,no
+3215,DivisionY,784,Birmingham,no
+3138,DivisionY,798,Birmingham,no
+844,DivisionY,798,Birmingham,no
+1477,DivisionY,802,Birmingham,no
+3298,Training,821,Istanbul,no
+2191,Finance,823,New Delhi,no
+1509,Finance,823,New Delhi,no
+670,Finance,823,New Delhi,no
+1528,Technology,832,Birmingham,no
+2548,Technology,832,Birmingham,no
+1892,Technology,832,Manila,no
+2084,Technology,832,Birmingham,no
+3286,DivisionX,847,Birmingham,no
+2579,DivisionX,847,Birmingham,no
+34,DivisionX,847,Birmingham,no
+2541,DivisionX,847,Birmingham,no
+1249,DivisionX,850,New Delhi,no
+448,DivisionX,850,New Delhi,no
+26,DivisionX,850,New Delhi,no
+3033,DivisionX,850,New Delhi,no
+1561,DivisionX,850,New Delhi,no
+547,PR,853,Birmingham,no
+1972,Training,854,Birmingham,no
+342,Training,854,Birmingham,no
+1295,Training,854,Birmingham,no
+2623,Training,854,Oman,no
+1168,Technology,855,Manila,no
+2600,Technology,855,Manila,no
+471,Technology,855,Manila,no
+3092,Technology,855,Manila,no
+451,Technology,855,Manila,no
+1822,Technology,855,Manila,no
+1532,DivisionY,857,New Delhi,no
+2511,DivisionY,857,New Delhi,no
+2507,DivisionY,857,New Delhi,no
+2164,DivisionY,857,Hyderabad,no
+959,DivisionY,857,New Delhi,no
+1348,DivisionY,857,New Delhi,no
+3161,DivisionY,857,New Delhi,no
+3001,DivisionY,857,Mumbai,no
+2201,DivisionY,857,New Delhi,no
+3054,DivisionY,857,Chennai,no
+132,DivisionY,857,New Delhi,no
+3349,Technology,885,Birmingham,no
+1809,Legal,885,Birmingham,no
+2465,Technology,885,Manila,no
+113,Technology,885,Manila,no
+3249,Technology,885,Birmingham,no
+2074,Technology,885,Manila,no
+819,DivisionY,887,New York,no
+1490,DivisionY,887,New York,no
+2690,DivisionX,891,Birmingham,no
+2944,DivisionX,891,Mexico City,no
+1421,DivisionX,891,Birmingham,no
+3122,DivisionY,892,Birmingham,no
+298,DivisionY,892,Birmingham,no
+3136,DivisionY,892,Birmingham,no
+1186,DivisionY,892,Birmingham,no
+626,DivisionY,892,Birmingham,no
+878,DivisionY,892,Birmingham,no
+1423,DivisionY,892,Birmingham,no
+3048,DivisionX,893,Madrid,no
+2836,DivisionX,893,Madrid,no
+1857,DivisionX,893,Madrid,no
+1648,DivisionX,893,Madrid,no
+329,DivisionX,893,Madrid,no
+661,DivisionX,893,Madrid,no
+1883,DivisionX,893,Madrid,no
+3119,Finance,903,Birmingham,no
+1352,Finance,903,Birmingham,no
+1403,DivisionY,911,Birmingham,yes
+1583,DivisionX,916,Birmingham,no
+3255,DivisionX,916,New York,no
+443,DivisionX,916,Birmingham,no
+1501,DivisionY,917,Mexico City,no
+309,DivisionY,917,New York,no
+2155,DivisionY,917,New York,no
+549,DivisionY,917,New York,no
+1142,DivisionY,919,Birmingham,no
+1912,DivisionY,919,Birmingham,no
+1247,DivisionY,919,New York,no
+1475,DivisionY,919,Birmingham,no
+1272,DivisionY,919,Birmingham,no
+2733,DivisionX,920,Amsterdam,no
+1164,DivisionX,920,Amsterdam,no
+1141,DivisionX,920,Amsterdam,no
+3191,DivisionY,924,Birmingham,yes
+1902,Training,929,New Delhi,no
+252,Training,929,Thiruvananthapuram,no
+2573,Training,929,Mumbai,no
+2321,Training,929,New Delhi,no
+880,Training,929,New Delhi,no
+2187,DivisionX,929,New Delhi,no
+706,HR,929,New Delhi,no
+3308,Technology,931,Manila,no
+1278,Technology,931,Manila,no
+3218,Technology,931,Manila,no
+65,Technology,931,Manila,no
+129,Technology,931,Manila,no
+2101,Technology,931,Manila,no
+2047,Technology,932,Manila,no
+488,Technology,932,Manila,no
+2222,Technology,932,Manila,no
+3019,DivisionY,934,Birmingham,no
+2380,DivisionY,934,Birmingham,no
+2996,DivisionY,934,New York,no
+2098,DivisionX,941,New York,no
+1163,DivisionX,946,Birmingham,no
+3173,DivisionY,954,Birmingham,no
+120,DivisionY,954,Birmingham,no
+1077,DivisionY,954,Birmingham,no
+960,DivisionX,957,Sao Paulo,no
+378,DivisionX,957,Sao Paulo,no
+1596,DivisionX,957,Sao Paulo,no
+1921,DivisionX,957,Sao Paulo,no
+806,DivisionX,962,Kolkata,no
+200,DivisionX,962,Kolkata,no
+2629,Technology,963,Birmingham,no
+1167,Sales,969,Birmingham,no
+2379,Sales,969,Birmingham,no
+1453,Sales,969,Birmingham,no
+2570,DivisionY,976,Beijing,no
+2783,Training,979,New Delhi,no
+2965,Training,979,New Delhi,no
+1067,Training,979,New Delhi,no
+1591,Training,979,New Delhi,no
+2108,Training,979,New Delhi,no
+263,Training,979,New Delhi,no
+1798,DivisionX,982,Tokyo,no
+690,DivisionX,982,Tokyo,no
+2851,DivisionX,982,Seoul,no
+3263,DivisionX,982,Kuala Lumpur,no
+3158,DivisionX,982,Bangkok,no
+2719,DivisionX,982,Ho Chi Minh City,no
+282,DivisionX,982,Bangkok,no
+430,DivisionX,982,Singapore,no
+3026,DivisionX,982,Bangkok,no
+1849,DivisionX,982,Jakarta,no
+2799,Technology,985,Manila,no
+1794,Technology,985,Manila,no
+1666,Technology,985,Manila,no
+598,Technology,985,Manila,no
+845,Technology,985,Manila,no
+655,Training,990,Nigeria,no
+179,Training,990,Nigeria,no
+3153,Training,990,Nigeria,no
+613,Training,990,Nigeria,no
+1446,Training,990,Nigeria,no
+473,Training,990,Nigeria,no
+2825,Training,990,Nigeria,no
+1817,Training,990,Nigeria,no
+296,Training,990,Nigeria,no
+3320,Training,990,Nigeria,no
+2788,Training,990,Nigeria,no
+3035,Training,990,Nigeria,no
+2833,DivisionY,991,Birmingham,no
+3261,DivisionY,991,Birmingham,no
+479,DivisionY,991,Birmingham,no
+2766,DivisionY,991,Birmingham,no
+2238,DivisionY,991,Cape Town,no
+199,DivisionY,991,Madrid,no
+501,DivisionY,991,Warsaw,no
+1845,DivisionY,991,Birmingham,no
+2340,DivisionY,991,Birmingham,no
+1820,DivisionX,999,Birmingham,no
+1337,DivisionX,999,Birmingham,no
+422,DivisionX,999,France,no
+1793,DivisionX,999,Birmingham,no
+1398,DivisionX,999,Istanbul,no
+2924,DivisionX,999,Turin,no
+1691,DivisionX,999,Birmingham,no
+1957,DivisionX,999,Dubai,no
+1872,DivisionY,1003,Birmingham,no
+2000,DivisionY,1003,Birmingham,no
+2002,Training,1005,Birmingham,no
+759,Training,1005,Birmingham,no
+195,DivisionY,1013,Birmingham,no
+2856,DivisionY,1013,Birmingham,yes
+1284,Finance,1017,Birmingham,no
+461,Finance,1017,Birmingham,no
+1493,Finance,1017,Birmingham,no
+1504,Finance,1017,Birmingham,no
+1072,Finance,1017,Birmingham,no
+2983,Finance,1017,Birmingham,no
+374,Finance,1017,Birmingham,no
+3130,Customer Services,1022,Birmingham,no
+3064,Customer Services,1022,Birmingham,no
+1045,Customer Services,1022,New York,no
+1886,Training,1024,Birmingham,yes
+2591,Training,1024,Birmingham,no
+2150,Training,1024,Birmingham,no
+1438,Technology,1027,Manila,no
+1507,DivisionX,1038,Birmingham,no
+1353,DivisionX,1038,Birmingham,no
+1928,DivisionX,1038,Birmingham,no
+2973,DivisionX,1038,Birmingham,no
+1864,DivisionX,1038,Birmingham,no
+176,DivisionX,1040,Turin,no
+87,DivisionX,1041,New York,no
+2299,DivisionX,1041,Birmingham,no
+1953,DivisionX,1041,Birmingham,no
+1215,DivisionX,1041,Birmingham,no
+753,DivisionX,1041,Birmingham,no
+1473,DivisionX,1041,Birmingham,no
+2877,Finance,1043,Manila,no
+332,DivisionX,1049,Mexico City,no
+1752,DivisionX,1049,Mexico City,no
+1464,DivisionX,1049,Mexico City,no
+168,DivisionX,1049,Mexico City,no
+122,DivisionY,1059,New York,no
+2954,DivisionY,1059,Birmingham,no
+2932,DivisionY,1059,Birmingham,no
+3312,DivisionY,1059,Birmingham,no
+2866,DivisionY,1059,Birmingham,no
+1701,DivisionY,1059,New York,no
+2513,DivisionY,1059,Birmingham,no
+58,DivisionY,1059,Birmingham,no
+866,DivisionY,1060,New York,no
+2190,DivisionY,1060,New York,no
+2359,DivisionY,1060,New York,no
+2286,DivisionY,1060,New York,no
+1965,DivisionX,1063,Birmingham,no
+3319,DivisionX,1063,Birmingham,no
+674,Training,1065,Mumbai,no
+1076,Training,1065,Mumbai,no
+1318,Training,1067,New Delhi,no
+154,Training,1067,New Delhi,no
+584,Training,1067,New Delhi,no
+2822,Training,1067,New Delhi,no
+2250,Training,1067,New Delhi,no
+3272,Training,1067,New Delhi,no
+280,Finance,1072,Birmingham,no
+2889,Finance,1072,Birmingham,no
+2453,Finance,1072,New York,no
+1954,Finance,1072,Birmingham,no
+1777,Finance,1072,Birmingham,no
+359,Customer Services,1073,Birmingham,yes
+3025,Customer Services,1073,Birmingham,no
+126,Training,1085,Port Melbourne,no
+1758,Training,1085,Port Melbourne,no
+2224,DivisionX,1085,Port Melbourne,no
+2418,Training,1085,Port Melbourne,no
+180,Training,1085,Port Melbourne,no
+2260,Facilities,1085,Port Melbourne,no
+649,Training,1085,Port Melbourne,no
+1900,Customer Services,1092,Birmingham,no
+3336,Customer Services,1092,Birmingham,no
+3183,Customer Services,1092,Birmingham,no
+424,Customer Services,1092,Birmingham,no
+1986,Customer Services,1092,Tokyo,no
+2272,Customer Services,1092,Birmingham,no
+3072,Communications,1093,Manila,no
+7,DivisionX,1094,Birmingham,no
+771,DivisionX,1094,Birmingham,no
+268,DivisionX,1094,Birmingham,no
+2048,DivisionX,1094,Birmingham,no
+2013,DivisionX,1094,Birmingham,no
+2227,DivisionY,1104,New York,no
+2335,DivisionX,1105,Birmingham,no
+2240,DivisionX,1105,Birmingham,no
+2398,DivisionX,1105,Mexico City,no
+1036,DivisionX,1105,Birmingham,no
+2635,DivisionX,1107,Madrid,no
+2844,DivisionX,1107,Madrid,no
+2046,DivisionX,1107,Madrid,no
+239,Finance,1108,Manila,no
+2550,Finance,1108,Manila,no
+978,Finance,1108,Manila,no
+2646,Technology,1109,Manila,no
+3259,Technology,1109,Manila,no
+810,Technology,1109,Manila,no
+987,Technology,1109,Manila,no
+1177,Technology,1109,Manila,no
+2815,Technology,1109,Manila,no
+2510,Technology,1109,Manila,no
+2208,Technology,1109,Manila,no
+2326,Technology,1109,Manila,no
+915,Technology,1109,Manila,no
+1111,Technology,1109,Manila,no
+355,Technology,1109,Manila,no
+1548,Technology,1114,Manila,no
+1602,Technology,1114,Manila,no
+2461,Technology,1114,Manila,no
+3230,DivisionX,1115,Mexico City,no
+20,DivisionX,1115,Mexico City,no
+2459,DivisionX,1115,Mexico City,no
+3210,DivisionX,1115,Mexico City,no
+519,DivisionX,1115,Mexico City,no
+3253,DivisionX,1115,Mexico City,no
+854,Training,1126,Birmingham,no
+2942,Training,1126,Birmingham,no
+150,Training,1126,Birmingham,no
+2253,Training,1126,Birmingham,no
+1414,DivisionY,1129,New York,no
+1933,DivisionY,1129,New York,no
+106,DivisionY,1129,New York,no
+3127,DivisionY,1129,New York,no
+1095,DivisionY,1129,New York,no
+1797,DivisionY,1129,New York,no
+2849,DivisionY,1129,New York,no
+1401,DivisionY,1129,New York,no
+1331,DivisionY,1129,New York,no
+1963,DivisionY,1129,Mexico City,no
+469,DivisionY,1129,New York,no
+1281,DivisionZ,1131,Manila,no
+1424,Technology,1131,Manila,no
+3248,DivisionZ,1131,Manila,no
+2714,DivisionZ,1131,Manila,no
+2907,Technology,1131,Manila,no
+1162,DivisionZ,1131,Manila,no
+1749,Training,1132,New Delhi,no
+2277,DivisionX,1137,Madrid,no
+2722,Technology,1143,Manila,no
+1351,DivisionX,1144,Mexico City,no
+482,Technology,1147,Birmingham,no
+2167,Technology,1147,Birmingham,no
+758,Technology,1147,Birmingham,no
+1084,Technology,1147,Birmingham,no
+2519,Technology,1147,Birmingham,no
+580,Technology,1147,Birmingham,no
+1905,Customer Services,1151,Manila,no
+81,Customer Services,1151,Manila,no
+392,Customer Services,1151,Manila,no
+1645,Customer Services,1151,Manila,no
+2421,Customer Services,1151,Manila,no
+1665,Customer Services,1151,Manila,no
+540,Customer Services,1151,Manila,no
+2181,Customer Services,1151,Manila,no
+2812,Customer Services,1151,Manila,no
+115,HR,1154,New Delhi,no
+492,HR,1154,New Delhi,no
+3177,Training,1157,Birmingham,no
+2549,Training,1157,Birmingham,no
+1322,Training,1157,Birmingham,yes
+1542,Training,1157,Birmingham,no
+692,DivisionX,1163,Birmingham,no
+620,DivisionX,1163,Birmingham,no
+2745,Sales,1165,Birmingham,no
+2001,Sales,1165,Birmingham,no
+3301,Sales,1165,Birmingham,no
+709,Sales,1165,Birmingham,no
+1103,Sales,1165,Birmingham,no
+1488,Sales,1165,Birmingham,no
+2078,Sales,1165,Birmingham,no
+3200,Sales,1165,Birmingham,no
+1826,Technology,1168,Manila,no
+2276,Technology,1168,Manila,no
+236,Technology,1168,Manila,no
+838,Technology,1168,Manila,no
+1058,Technology,1168,Manila,no
+3071,DivisionY,1173,Birmingham,no
+636,DivisionY,1173,Birmingham,no
+2779,DivisionY,1173,Birmingham,no
+2424,Technology,1175,Manila,no
+1895,Technology,1175,Manila,no
+767,Technology,1175,Manila,no
+1479,Technology,1175,Manila,no
+871,Technology,1176,Manila,no
+2495,Finance,1178,Birmingham,no
+3273,DivisionX,1179,Birmingham,no
+738,DivisionX,1179,Mexico City,no
+2385,DivisionX,1179,Birmingham,no
+2404,DivisionY,1186,Birmingham,no
+818,DivisionX,1187,Chennai,no
+652,DivisionX,1187,Bengaluru,no
+149,DivisionX,1187,Chennai,no
+887,DivisionY,1214,New York,no
+3185,DivisionY,1214,New York,no
+799,DivisionY,1214,Birmingham,no
+3300,DivisionY,1214,Birmingham,no
+2795,Finance,1221,Birmingham,no
+2715,Finance,1221,Birmingham,no
+1543,Training,1223,Birmingham,no
+375,Training,1224,Birmingham,no
+2514,Training,1224,Birmingham,no
+2890,Training,1224,Birmingham,no
+249,Training,1224,Birmingham,no
+1302,Training,1224,India Operations Centre,no
+2748,Training,1228,Buenos Aires,no
+3150,DivisionX,1228,Bogota,no
+3174,Operations,1231,Port Melbourne,no
+1062,Operations,1231,Port Melbourne,no
+1169,DivisionX,1242,Mexico City,no
+1867,DivisionX,1242,Mexico City,no
+1222,DivisionX,1242,Mexico City,no
+3232,Operations,1242,Mexico City,no
+606,Operations,1242,Mexico City,no
+731,Customer Services,1248,Manila,no
+1906,Customer Services,1248,Manila,no
+3124,Customer Services,1248,Manila,no
+682,Customer Services,1248,Manila,no
+685,Customer Services,1248,Manila,no
+3045,Customer Services,1248,Manila,no
+2403,Customer Services,1248,Manila,no
+2824,Customer Services,1248,Manila,no
+1031,Customer Services,1248,Manila,no
+590,DivisionX,1257,Beijing,no
+411,HR,1260,Manila,no
+1119,HR,1260,Manila,no
+388,HR,1260,Manila,no
+3213,Technology,1278,Manila,no
+2707,Technology,1278,Manila,no
+713,Technology,1278,Manila,no
+2109,Technology,1278,Manila,no
+2214,DivisionY,1279,New York,no
+5,DivisionY,1279,New York,no
+671,DivisionY,1279,Canada,no
+3299,DivisionY,1279,New York,no
+559,Operations,1280,Birmingham,no
+572,DivisionZ,1281,Manila,no
+2162,DivisionZ,1281,Manila,no
+902,Technology,1281,Manila,no
+2695,DivisionZ,1281,Manila,no
+2919,DivisionZ,1281,Manila,no
+2810,DivisionZ,1281,Manila,no
+2186,DivisionZ,1281,Manila,no
+3228,Training,1284,Birmingham,no
+48,Finance,1284,Cape Town,no
+609,Finance,1284,Port Melbourne,no
+1671,Training,1284,Birmingham,no
+1927,Finance,1284,New Delhi,no
+1223,Training,1284,Birmingham,no
+1342,Finance,1284,Birmingham,no
+1572,Finance,1285,Madrid,no
+2448,DivisionX,1286,Birmingham,no
+3302,Operations,1286,Birmingham,no
+3331,Operations,1286,Birmingham,no
+1209,Operations,1286,Birmingham,no
+2594,DivisionX,1286,Birmingham,no
+2741,Operations,1286,Birmingham,no
+383,DivisionY,1293,Birmingham,no
+919,DivisionY,1293,New York,no
+2121,Training,1295,Birmingham,no
+1372,DivisionX,1297,New York,no
+574,DivisionX,1297,Birmingham,yes
+159,DivisionX,1297,Birmingham,no
+2770,Operations,1298,New York,no
+1280,Operations,1298,Birmingham,no
+1796,Operations,1298,Birmingham,no
+14,Operations,1298,Birmingham,no
+3172,Legal,1305,Birmingham,no
+2577,Legal,1305,Birmingham,no
+1472,Legal,1305,Singapore,no
+2157,Legal,1305,Singapore,no
+40,Legal,1305,Birmingham,no
+2371,Legal,1305,Birmingham,no
+416,Legal,1305,Birmingham,no
+1469,DivisionX,1313,Birmingham,no
+2244,Communications,1317,Birmingham,no
+1242,DivisionX,1324,Mexico City,no
+611,DivisionX,1324,Mexico City,no
+3087,DivisionX,1324,Mexico City,no
+218,Customer Services,1326,Mexico City,no
+856,Customer Services,1326,Mexico City,no
+321,DivisionX,1326,Mexico City,no
+657,DivisionX,1326,Mexico City,no
+2487,Customer Services,1326,Mexico City,no
+83,Customer Services,1326,Mexico City,no
+2886,Customer Services,1326,Mexico City,no
+3216,DivisionX,1326,Mexico City,no
+2641,DivisionX,1326,Mexico City,no
+514,DivisionX,1326,Mexico City,no
+945,DivisionX,1326,Mexico City,no
+1008,DivisionX,1326,Mexico City,no
+1146,DivisionX,1326,Mexico City,no
+761,DivisionX,1326,Mexico City,no
+1502,DivisionX,1332,Madrid,no
+2689,Finance,1332,Madrid,no
+640,Finance,1332,Madrid,no
+1966,Finance,1332,Madrid,no
+1443,DivisionX,1337,Praha,no
+1380,DivisionX,1337,Warsaw,no
+836,DivisionX,1337,Birmingham,no
+44,DivisionX,1337,Praha,no
+705,DivisionX,1337,Moscow,no
+2302,DivisionX,1337,Birmingham,no
+295,Technology,1340,Manila,no
+1176,Technology,1340,Birmingham,no
+558,DivisionY,1343,Birmingham,no
+251,DivisionY,1343,Birmingham,no
+426,Training,1344,New Delhi,no
+2316,Training,1344,New Delhi,no
+2067,DivisionY,1348,New Delhi,no
+3194,Training,1350,India Operations Centre,no
+2951,Finance,1352,Manila,no
+71,Customer Services,1354,Singapore,no
+2565,Customer Services,1354,Singapore,no
+2700,Customer Services,1354,Singapore,no
+1843,Customer Services,1354,Singapore,no
+1118,Customer Services,1354,Singapore,no
+2613,DivisionY,1358,Birmingham,no
+3283,DivisionY,1358,Birmingham,no
+1173,DivisionY,1358,Birmingham,yes
+2356,DivisionY,1358,Birmingham,yes
+274,DivisionY,1358,Birmingham,no
+1978,DivisionY,1358,Birmingham,no
+2985,DivisionY,1358,Birmingham,no
+1847,DivisionY,1358,Birmingham,no
+2593,Training,1362,Turin,no
+2772,Training,1362,Madrid,no
+2239,Training,1362,Birmingham,no
+3100,Training,1362,Birmingham,no
+972,Training,1362,Birmingham,no
+1211,Training,1362,Birmingham,no
+1429,Training,1362,Birmingham,no
+1866,Training,1362,Turin,no
+394,Training,1362,Moscow,no
+1257,DivisionX,1366,Beijing,no
+1394,Training,1369,Birmingham,no
+3225,Training,1369,Birmingham,no
+250,DivisionY,1370,Bangkok,no
+2721,DivisionY,1370,Jakarta,no
+2776,DivisionY,1370,Singapore,no
+554,DivisionX,1372,Birmingham,no
+2447,DivisionX,1372,Birmingham,no
+1769,DivisionX,1372,Birmingham,no
+2406,DivisionX,1373,Shanghai,no
+3077,DivisionY,1376,Birmingham,no
+2610,DivisionY,1376,New York,no
+468,DivisionY,1376,Birmingham,no
+2791,DivisionY,1376,Birmingham,no
+645,DivisionY,1376,Birmingham,no
+950,DivisionY,1376,Birmingham,no
+779,DivisionX,1380,Warsaw,no
+2798,DivisionX,1380,Warsaw,no
+1682,Technology,1383,Manila,no
+2744,Technology,1383,Manila,no
+2209,Technology,1383,Manila,no
+3236,Technology,1383,Manila,no
+1745,Training,1385,New Delhi,no
+521,DivisionY,1386,Birmingham,no
+3101,DivisionX,1387,Madrid,no
+217,DivisionX,1387,Madrid,no
+277,DivisionX,1387,Madrid,no
+1255,DivisionX,1387,Madrid,no
+1152,DivisionX,1387,Madrid,no
+2080,Training,1391,Bengaluru,no
+182,Operations,1397,Madrid,no
+575,Training,1398,Istanbul,no
+2386,DivisionX,1398,Istanbul,no
+510,DivisionX,1398,Istanbul,no
+1235,DivisionX,1398,Istanbul,no
+1724,DivisionX,1398,Istanbul,no
+3335,DivisionX,1398,Istanbul,no
+1315,DivisionX,1402,Birmingham,no
+400,Training,1419,Cape Town,no
+1122,Training,1419,Cape Town,no
+2460,Training,1419,Cape Town,no
+1288,Training,1419,Cape Town,no
+2660,Finance,1432,Manila,no
+1064,Finance,1432,New York,no
+2369,DivisionX,1433,Istanbul,no
+1432,Finance,1437,Birmingham,no
+2530,Finance,1437,Birmingham,no
+712,Finance,1437,Birmingham,no
+1474,Finance,1437,Birmingham,no
+3164,Finance,1437,Birmingham,no
+1415,Finance,1437,Birmingham,no
+2552,Finance,1437,Birmingham,no
+971,Finance,1437,Birmingham,no
+3233,Finance,1437,Birmingham,no
+2472,Finance,1437,Manila,no
+2874,Finance,1437,Manila,no
+2211,DivisionY,1439,Birmingham,no
+431,DivisionY,1439,Birmingham,no
+553,DivisionY,1439,Birmingham,no
+2647,DivisionY,1439,Birmingham,no
+1620,DivisionY,1439,Birmingham,no
+3346,DivisionY,1439,Birmingham,no
+934,DivisionY,1439,New York,no
+1391,Training,1441,Bengaluru,no
+88,Training,1441,Bengaluru,no
+997,Training,1441,Bengaluru,no
+1613,Training,1441,Bengaluru,no
+1856,DivisionX,1443,Praha,no
+2608,DivisionX,1443,Praha,no
+1258,DivisionX,1444,Lima,no
+2212,DivisionX,1444,Lima,no
+1755,DivisionX,1444,Lima,no
+2616,Training,1448,Port Melbourne,no
+1946,Training,1448,Port Melbourne,no
+2604,Training,1448,Port Melbourne,no
+205,Training,1448,Port Melbourne,no
+2,Customer Services,1460,Birmingham,no
+1916,Customer Services,1460,Birmingham,no
+1326,DivisionX,1460,Mexico City,no
+2589,Customer Services,1460,Birmingham,no
+1151,Customer Services,1460,Manila,no
+173,DivisionX,1464,Mexico City,no
+1324,DivisionX,1464,Mexico City,no
+1716,DivisionX,1464,Mexico City,no
+2602,Technology,1466,Manila,no
+2713,Technology,1466,Manila,no
+235,Technology,1466,Manila,no
+2637,Technology,1466,Manila,no
+1252,Technology,1466,Manila,no
+2710,DivisionX,1476,Birmingham,no
+2148,DivisionX,1476,Birmingham,no
+1618,DivisionX,1476,Birmingham,no
+3058,DivisionX,1476,Birmingham,no
+3067,DivisionY,1478,Birmingham,no
+3147,DivisionY,1478,Birmingham,no
+1452,DivisionY,1478,Birmingham,no
+696,DivisionY,1478,Birmingham,no
+1937,DivisionY,1478,Birmingham,no
+3050,DivisionY,1480,Tokyo,no
+1213,DivisionY,1480,Tokyo,no
+516,Finance,1493,Birmingham,no
+1043,Finance,1493,Birmingham,no
+1079,Finance,1493,Birmingham,no
+2720,Finance,1493,Birmingham,no
+1938,Technology,1498,Birmingham,no
+1427,Technology,1498,Warsaw,no
+2711,Technology,1498,Birmingham,no
+1377,Technology,1498,Praha,no
+99,Technology,1498,Birmingham,no
+2475,DivisionY,1501,Sao Paulo,no
+2104,DivisionY,1501,Mexico City,no
+2845,Finance,1504,Birmingham,no
+1495,Finance,1504,Birmingham,no
+1313,DivisionX,1507,Birmingham,no
+1172,DivisionX,1507,Birmingham,no
+1667,DivisionX,1507,Birmingham,no
+884,DivisionX,1507,Birmingham,no
+2366,Operations,1508,New Delhi,no
+2333,Customer Services,1508,Mumbai,no
+2293,Operations,1508,Mumbai,no
+2241,Operations,1508,Mumbai,no
+2225,Customer Services,1508,Mumbai,no
+1636,Customer Services,1508,Mumbai,no
+1125,Customer Services,1508,Mumbai,no
+908,DivisionX,1510,Birmingham,no
+74,DivisionX,1510,Birmingham,no
+1969,DivisionX,1510,Birmingham,no
+1338,DivisionX,1510,Birmingham,no
+2952,DivisionX,1510,Birmingham,no
+1198,DivisionX,1510,Birmingham,no
+2617,DivisionX,1510,Birmingham,no
+3009,DivisionX,1510,Birmingham,no
+283,DivisionX,1510,India Operations Centre,no
+3060,DivisionX,1510,Birmingham,no
+684,DivisionX,1510,Birmingham,no
+3049,DivisionX,1510,Birmingham,no
+2449,DivisionX,1510,Birmingham,no
+2781,DivisionX,1510,Birmingham,no
+1559,DivisionX,1510,Birmingham,no
+1834,DivisionX,1510,Birmingham,no
+936,DivisionX,1510,Birmingham,no
+1053,DivisionX,1510,Birmingham,no
+1491,DivisionX,1510,Birmingham,no
+566,DivisionX,1510,Birmingham,no
+1851,DivisionX,1510,Birmingham,no
+2412,DivisionX,1510,Birmingham,no
+942,DivisionX,1510,Birmingham,no
+1233,DivisionX,1510,Birmingham,no
+170,DivisionX,1510,Birmingham,no
+476,DivisionX,1510,Birmingham,no
+1697,DivisionX,1510,Birmingham,no
+2265,DivisionX,1510,Birmingham,no
+454,DivisionX,1510,Birmingham,no
+348,DivisionX,1510,Birmingham,no
+1101,Operations,1511,Kolkata,no
+442,Operations,1511,Kolkata,no
+2163,Customer Services,1511,Kolkata,no
+906,Customer Services,1511,Kolkata,no
+3125,DivisionX,1515,Birmingham,no
+3243,DivisionX,1522,Birmingham,no
+656,DivisionX,1522,Birmingham,no
+2480,DivisionY,1531,Birmingham,no
+1899,DivisionY,1532,New Delhi,no
+490,DivisionY,1532,New Delhi,no
+1995,DivisionX,1536,Thiruvananthapuram,no
+1510,DivisionX,1556,Birmingham,no
+2011,Technology,1562,Birmingham,no
+352,Technology,1562,Birmingham,yes
+2668,Training,1566,Birmingham,no
+3123,Training,1566,Birmingham,no
+1269,DivisionY,1570,Birmingham,yes
+2542,DivisionY,1570,Birmingham,no
+2758,DivisionY,1570,Birmingham,no
+1784,DivisionY,1570,Birmingham,no
+1830,Training,1581,Mumbai,no
+1065,Training,1581,Mumbai,no
+1128,Training,1581,Mumbai,no
+2806,Training,1581,Mumbai,no
+270,Training,1581,Mumbai,no
+3350,Training,1581,Mumbai,no
+619,Training,1581,Mumbai,no
+1799,Training,1581,Mumbai,no
+1882,DivisionX,1592,Birmingham,no
+2410,Technology,1594,Manila,no
+839,Technology,1594,Manila,no
+2458,Technology,1594,Manila,no
+1143,Technology,1594,Manila,no
+2735,Technology,1594,Manila,no
+3274,Technology,1594,Manila,no
+955,Finance,1600,Manila,no
+1108,Finance,1600,Manila,no
+1546,Technology,1605,Manila,no
+2039,Technology,1605,Manila,no
+1121,Technology,1605,Manila,no
+1699,Technology,1605,Manila,no
+631,Operations,1606,New Delhi,no
+51,Operations,1606,New Delhi,no
+130,Operations,1606,New Delhi,no
+830,Customer Services,1606,New Delhi,no
+2490,Customer Services,1606,New Delhi,no
+412,Customer Services,1606,New Delhi,no
+1658,Operations,1606,Paris,no
+1153,Operations,1606,Paris,no
+1312,Operations,1606,Paris,no
+2590,Operations,1606,Paris,no
+2603,Operations,1606,New Delhi,no
+331,Operations,1606,Paris,no
+2252,Training,1612,Thiruvananthapuram,no
+2085,Training,1612,Thiruvananthapuram,no
+1245,Technology,1614,Manila,no
+1643,Technology,1614,Manila,no
+2112,Technology,1614,Manila,no
+651,Technology,1614,Manila,no
+1860,Technology,1614,Manila,no
+1417,Technology,1614,Manila,no
+1718,Technology,1614,Manila,no
+2068,Technology,1614,Manila,no
+2654,Technology,1614,Manila,no
+427,Technology,1614,Manila,no
+2988,Technology,1614,Manila,no
+1748,Technology,1614,Manila,no
+2312,DivisionY,1620,Birmingham,no
+278,DivisionY,1620,Birmingham,no
+3296,DivisionY,1620,Birmingham,no
+650,HR,1625,Manila,no
+2691,Technology,1632,Birmingham,no
+1850,Technology,1632,Birmingham,no
+863,Technology,1632,Birmingham,no
+2872,Technology,1632,Birmingham,no
+981,DivisionY,1634,Birmingham,no
+1976,Technology,1641,Manila,no
+117,DivisionX,1644,Birmingham,no
+715,DivisionX,1644,Birmingham,no
+401,DivisionY,1647,Birmingham,no
+1766,Training,1656,Kenya,no
+2618,Training,1656,Nigeria,no
+3178,Training,1656,Cape Town,no
+550,Technology,1661,Birmingham,no
+449,Technology,1661,Birmingham,yes
+1804,Technology,1661,Birmingham,no
+2226,Technology,1661,Birmingham,no
+147,Technology,1661,Birmingham,no
+2423,Technology,1661,Birmingham,no
+815,DivisionX,1661,Manila,no
+2940,DivisionX,1661,Birmingham,no
+2801,DivisionX,1670,Madrid,no
+3143,DivisionX,1670,Madrid,no
+3338,Training,1671,Birmingham,no
+89,Training,1671,Birmingham,no
+3209,Training,1671,Birmingham,no
+2043,Training,1671,India Operations Centre,no
+1294,DivisionY,1673,Birmingham,no
+766,Technology,1676,Manila,no
+2266,Technology,1676,Manila,no
+1457,Technology,1676,Manila,no
+2704,Technology,1676,Manila,no
+1960,DivisionX,1683,Mexico City,no
+3314,DivisionX,1683,Mexico City,no
+1371,DivisionX,1683,Mexico City,no
+800,DivisionX,1683,Mexico City,no
+672,DivisionX,1691,Birmingham,no
+472,DivisionX,1691,Birmingham,no
+2665,Finance,1692,Birmingham,no
+3339,Technology,1693,Birmingham,no
+2436,Technology,1693,Birmingham,yes
+1075,Technology,1693,Birmingham,no
+2182,DivisionY,1701,Birmingham,no
+2681,DivisionY,1701,Birmingham,no
+725,DivisionY,1701,New York,no
+3020,DivisionY,1701,Birmingham,no
+708,Customer Services,1707,Cape Town,no
+3337,Training,1712,Birmingham,no
+9,Training,1712,Birmingham,yes
+1790,Training,1712,Birmingham,no
+229,Training,1712,Birmingham,yes
+624,Training,1714,Nigeria,no
+2089,Training,1714,Nigeria,no
+2777,Training,1714,Nigeria,no
+96,DivisionX,1716,Mexico City,no
+2731,DivisionX,1716,Mexico City,no
+1207,DivisionX,1716,Mexico City,no
+169,DivisionX,1716,Mexico City,no
+2309,Finance,1719,Port Melbourne,no
+3197,Finance,1719,Port Melbourne,no
+2504,HR,1721,Birmingham,no
+2141,HR,1721,Birmingham,no
+2640,HR,1721,Manila,no
+1320,HR,1721,Birmingham,no
+2343,HR,1721,Manila,no
+874,DivisionX,1724,Istanbul,no
+302,DivisionY,1725,New York,no
+694,Customer Services,1742,Manila,no
+2328,Customer Services,1742,Manila,no
+2903,Customer Services,1742,Manila,no
+2953,Training,1744,Birmingham,no
+3322,Training,1744,Birmingham,no
+1814,DivisionY,1747,Beijing,no
+2913,Technology,1751,Birmingham,no
+2761,Technology,1751,Birmingham,no
+1306,Technology,1751,Birmingham,no
+3168,DivisionX,1752,Mexico City,no
+2040,DivisionX,1752,Mexico City,no
+2784,DivisionX,1752,Mexico City,no
+2300,Training,1754,Birmingham,no
+1535,Training,1758,Port Melbourne,no
+1069,Training,1758,Port Melbourne,no
+1569,Training,1758,Port Melbourne,no
+3244,Training,1758,Port Melbourne,no
+1746,Training,1758,Sydney,no
+2451,Training,1758,Port Melbourne,no
+276,Training,1758,Port Melbourne,no
+988,Training,1758,Port Melbourne,no
+497,Training,1758,Port Melbourne,no
+1275,Training,1758,Port Melbourne,no
+531,Training,1758,Port Melbourne,no
+1266,Training,1758,Sydney,no
+2303,Technology,1763,Manila,no
+1807,Technology,1763,Manila,no
+1463,Technology,1763,Manila,no
+1990,Technology,1763,Manila,no
+1694,DivisionX,1765,India Operations Centre,no
+2295,DivisionX,1765,India Operations Centre,no
+1786,DivisionX,1765,India Operations Centre,no
+1277,DivisionX,1765,India Operations Centre,no
+3327,DivisionX,1765,India Operations Centre,no
+1915,DivisionX,1765,India Operations Centre,no
+52,DivisionX,1765,India Operations Centre,no
+1381,DivisionX,1765,Birmingham,no
+2342,DivisionX,1765,Birmingham,no
+2456,DivisionX,1765,Birmingham,no
+1404,DivisionX,1765,Birmingham,no
+436,DivisionX,1765,Birmingham,no
+2384,DivisionX,1765,Birmingham,no
+1230,Training,1766,Nigeria,no
+716,Training,1766,Kenya,no
+2615,Training,1766,Nigeria,no
+3096,DivisionY,1767,Birmingham,no
+2607,DivisionY,1767,Birmingham,no
+560,DivisionY,1767,Birmingham,no
+379,DivisionY,1767,Birmingham,no
+2430,DivisionY,1767,Birmingham,no
+3222,DivisionY,1767,Birmingham,no
+2597,DivisionY,1767,Birmingham,no
+2320,Technology,1771,Manila,no
+405,Technology,1771,Manila,no
+279,Technology,1771,Manila,no
+1527,Technology,1771,Manila,no
+3271,Technology,1771,Manila,no
+466,Technology,1771,Manila,no
+433,Technology,1771,Manila,no
+527,Training,1775,Birmingham,no
+2994,Training,1775,Birmingham,no
+203,Finance,1777,Birmingham,no
+1996,DivisionX,1779,Madrid,no
+2271,Training,1781,New Delhi,no
+1091,Training,1781,New Delhi,no
+2375,DivisionX,1793,Birmingham,no
+2557,DivisionX,1793,Birmingham,no
+3347,DivisionX,1793,Birmingham,no
+2560,Operations,1796,New York,no
+3157,Operations,1796,Birmingham,no
+992,Operations,1796,Singapore,no
+3144,DivisionX,1798,Singapore,no
+1007,DivisionX,1798,Tokyo,no
+1526,DivisionX,1798,Tokyo,no
+2110,Technology,1804,Birmingham,no
+581,Technology,1804,Birmingham,no
+931,Technology,1804,Manila,no
+2358,Technology,1804,Madrid,no
+2279,Finance,1806,Birmingham,no
+2599,Finance,1806,Birmingham,no
+1607,Finance,1819,Singapore,no
+760,Finance,1819,Singapore,no
+1979,DivisionX,1820,France,no
+2443,DivisionX,1820,Birmingham,no
+1319,DivisionX,1820,Birmingham,no
+2171,Training,1829,Beijing,no
+4,Training,1829,Shanghai,no
+961,Training,1829,Beijing,no
+2950,Training,1830,Mumbai,no
+545,Training,1830,Mumbai,no
+255,Training,1830,Mumbai,no
+339,Training,1830,Mumbai,no
+3196,DivisionY,1842,Birmingham,no
+2049,DivisionY,1842,Birmingham,no
+2868,DivisionY,1842,Birmingham,no
+2275,DivisionY,1847,Birmingham,no
+2555,DivisionY,1847,New York,no
+124,DivisionY,1847,Birmingham,no
+1570,DivisionY,1847,Birmingham,no
+324,DivisionX,1849,Jakarta,no
+2756,DivisionX,1849,Jakarta,no
+275,DivisionX,1849,Jakarta,no
+1919,DivisionX,1849,Jakarta,no
+2264,DivisionX,1849,Jakarta,no
+2262,DivisionX,1849,Jakarta,no
+1633,DivisionX,1849,Jakarta,no
+2800,Training,1859,New York,no
+1624,Training,1859,New York,no
+1964,Training,1859,New York,no
+1080,Training,1859,New York,no
+937,Training,1868,Hyderabad,no
+2373,Training,1868,Bengaluru,no
+1575,Training,1868,Chennai,no
+336,Training,1868,Hyderabad,no
+3289,Training,1868,Chennai,no
+1975,Training,1868,Chennai,no
+1930,Training,1868,Hyderabad,no
+870,Training,1868,Chennai,no
+53,Training,1868,Hyderabad,no
+3042,Training,1868,Chennai,no
+2554,Training,1868,Chennai,no
+1949,Technology,1892,Manila,no
+2855,Technology,1892,Manila,no
+865,Technology,1892,Manila,no
+2938,Technology,1892,Manila,no
+2892,Training,1902,New Delhi,no
+3065,DivisionX,1903,New York,no
+2674,Operations,1908,Birmingham,no
+2408,Finance,1908,Birmingham,no
+2435,Operations,1908,Birmingham,no
+1170,Operations,1908,Birmingham,no
+2753,Finance,1908,Birmingham,no
+1287,DivisionY,1912,India Operations Centre,no
+2596,DivisionZ,1913,Manila,no
+59,Technology,1913,Manila,no
+1763,DivisionZ,1913,Manila,no
+2881,Technology,1913,Manila,no
+1131,DivisionZ,1913,Manila,no
+782,Technology,1913,Manila,no
+1027,Technology,1913,Manila,no
+1283,Technology,1913,Manila,no
+3176,DivisionZ,1913,Manila,no
+2712,Technology,1913,Manila,no
+1109,Technology,1913,Manila,no
+207,Technology,1913,Manila,no
+2506,DivisionZ,1913,Manila,no
+2717,DivisionZ,1913,Manila,no
+69,DivisionZ,1913,Manila,no
+2470,DivisionZ,1913,Manila,no
+3246,DivisionZ,1913,Manila,no
+634,DivisionZ,1913,Manila,no
+2450,DivisionZ,1913,Manila,no
+494,DivisionZ,1913,Manila,no
+2116,DivisionZ,1913,Manila,no
+1226,DivisionZ,1913,Manila,no
+1791,DivisionZ,1913,Manila,no
+3275,Customer Services,1916,Birmingham,no
+2923,Customer Services,1916,Birmingham,no
+2867,Customer Services,1916,Birmingham,no
+3004,Legal,1925,Birmingham,no
+1816,Legal,1925,Birmingham,no
+1891,Legal,1925,Birmingham,no
+2553,Legal,1925,Birmingham,no
+3330,Legal,1925,Birmingham,no
+2763,Legal,1925,Birmingham,no
+1305,Legal,1925,Birmingham,no
+2132,Legal,1925,Birmingham,no
+730,Legal,1925,Birmingham,no
+3214,Technology,1926,Manila,no
+3264,Technology,1926,Manila,no
+890,Technology,1926,Manila,no
+288,Technology,1926,Manila,no
+3021,Technology,1926,Manila,no
+1760,Technology,1926,Manila,no
+1341,Facilities,1927,New Delhi,no
+3311,Operations,1927,New Delhi,no
+1099,Facilities,1927,New Delhi,no
+1500,Facilities,1927,New Delhi,no
+2094,Facilities,1927,New Delhi,no
+1603,Facilities,1927,New Delhi,no
+3190,Operations,1927,New Delhi,no
+362,Finance,1927,New Delhi,no
+2383,DivisionX,1928,Birmingham,no
+181,DivisionX,1928,Birmingham,no
+3039,DivisionX,1928,Birmingham,no
+2234,DivisionX,1929,Sao Paulo,no
+1651,DivisionX,1929,Sao Paulo,no
+826,DivisionX,1929,Sao Paulo,no
+2910,Training,1940,Birmingham,no
+722,Training,1940,Birmingham,no
+483,Training,1940,Birmingham,no
+418,Technology,1949,Manila,no
+2230,Technology,1949,Manila,no
+3029,Technology,1949,Manila,no
+1544,Technology,1949,Manila,no
+3288,Technology,1949,Manila,no
+1015,Technology,1949,Manila,no
+1703,Technology,1949,Manila,no
+271,Training,1949,Manila,no
+266,Training,1949,Manila,no
+1238,DivisionX,1950,India Operations Centre,no
+2178,DivisionX,1950,Birmingham,no
+3107,DivisionX,1950,Birmingham,no
+1150,DivisionX,1950,Birmingham,no
+2863,DivisionX,1953,Birmingham,no
+2754,DivisionX,1953,Birmingham,no
+1757,DivisionX,1953,Birmingham,no
+1792,DivisionX,1953,Birmingham,no
+1254,Technology,1956,Manila,no
+3281,Technology,1956,Manila,no
+446,DivisionX,1957,Dubai,no
+3262,Training,1957,Dubai,no
+2619,DivisionX,1957,Dubai,no
+2466,Training,1957,Dubai,no
+95,Training,1958,Port Melbourne,no
+940,Training,1958,Port Melbourne,no
+1050,Training,1958,Port Melbourne,no
+2457,Training,1958,Port Melbourne,no
+3135,Training,1958,Port Melbourne,no
+267,DivisionX,1965,Birmingham,no
+824,DivisionX,1965,Birmingham,no
+410,Customer Services,1967,Manila,no
+1585,Customer Services,1967,Manila,no
+1086,Customer Services,1967,Manila,no
+3276,Customer Services,1967,Manila,no
+1296,Customer Services,1967,Manila,no
+786,Customer Services,1967,Manila,no
+736,Customer Services,1967,Manila,no
+2058,Customer Services,1967,Manila,no
+2999,Customer Services,1967,Manila,no
+1647,DivisionY,1970,Birmingham,no
+2533,DivisionY,1970,Birmingham,no
+1580,DivisionY,1970,Birmingham,no
+3238,DivisionY,1970,Birmingham,no
+1210,DivisionY,1970,Birmingham,no
+225,Training,1972,Birmingham,no
+338,Training,1972,Birmingham,no
+1994,Training,1972,Birmingham,no
+1617,DivisionX,1973,Birmingham,no
+2420,DivisionX,1973,Birmingham,no
+579,DivisionY,1977,Birmingham,no
+833,DivisionY,1978,Birmingham,no
+1410,DivisionY,1978,Birmingham,no
+617,Operations,1980,New Delhi,no
+1948,Operations,1980,New Delhi,no
+31,Operations,1980,New Delhi,no
+2346,Technology,1983,Birmingham,no
+3258,Technology,1983,Birmingham,no
+3145,Technology,1983,Birmingham,no
+156,Technology,1983,New York,no
+746,Technology,1983,Birmingham,no
+98,DivisionY,1989,Beijing,no
+503,DivisionY,1993,Birmingham,no
+1840,DivisionY,1993,Birmingham,no
+861,Technology,2010,Manila,no
+340,Technology,2010,Manila,no
+2128,Technology,2010,Manila,no
+1803,Technology,2010,Manila,no
+3017,Technology,2010,Manila,no
+1616,Technology,2010,Manila,no
+951,Technology,2010,Manila,no
+1738,Technology,2010,Manila,no
+1894,Technology,2010,Manila,no
+121,DivisionY,2017,Birmingham,no
+2334,DivisionY,2017,Birmingham,no
+1893,DivisionY,2017,Birmingham,no
+2718,DivisionY,2017,Birmingham,no
+2052,DivisionX,2020,New York,no
+1158,Training,2023,New Delhi,no
+3088,Training,2023,New Delhi,no
+2656,Training,2023,New Delhi,no
+3247,DivisionX,2024,Mexico City,no
+1115,DivisionX,2024,Mexico City,no
+3093,DivisionX,2024,Mexico City,no
+3223,DivisionX,2024,Mexico City,no
+3265,DivisionX,2024,Mexico City,no
+3149,DivisionX,2024,Mexico City,no
+2236,DivisionX,2024,Mexico City,no
+3207,DivisionX,2024,Mexico City,no
+1844,DivisionX,2024,Mexico City,no
+2154,DivisionX,2024,Mexico City,no
+1931,DivisionX,2024,Mexico City,no
+3012,DivisionY,2026,Birmingham,no
+1739,DivisionY,2026,Birmingham,no
+500,DivisionY,2026,New York,no
+1557,DivisionY,2026,Birmingham,no
+2686,DivisionY,2026,New York,no
+1225,DivisionY,2026,Mexico City,no
+921,DivisionY,2026,New York,no
+387,DivisionY,2026,Birmingham,no
+1829,Training,2028,Beijing,no
+3175,DivisionX,2028,Beijing,no
+1635,DivisionX,2028,Beijing,no
+1366,DivisionX,2028,Beijing,no
+2176,DivisionX,2028,Hong Kong,no
+568,DivisionX,2028,Hong Kong,no
+1373,DivisionX,2028,Shanghai,no
+907,DivisionX,2028,Beijing,no
+2019,Technology,2034,Birmingham,yes
+2972,Technology,2034,Birmingham,no
+1034,DivisionX,2036,Mexico City,no
+2473,DivisionX,2041,Sao Paulo,no
+1811,DivisionX,2041,Sao Paulo,no
+541,DivisionX,2041,Sao Paulo,no
+1944,DivisionX,2041,Sao Paulo,no
+310,DivisionY,2042,Birmingham,yes
+1290,DivisionY,2042,Birmingham,no
+813,DivisionY,2042,Birmingham,no
+3126,DivisionY,2042,Birmingham,no
+1345,DivisionY,2042,Birmingham,no
+1179,DivisionX,2048,Birmingham,no
+1149,DivisionX,2048,Madrid,no
+697,DivisionX,2048,New York,no
+1936,DivisionX,2048,Turin,no
+316,DivisionX,2048,Madrid,no
+133,DivisionX,2052,New York,no
+2899,DivisionX,2052,New York,no
+1524,DivisionX,2052,Birmingham,no
+462,DivisionX,2052,Birmingham,no
+1789,Training,2053,Chennai,no
+238,Training,2053,New Delhi,no
+2551,Training,2053,Mumbai,no
+986,Training,2053,Bengaluru,no
+1110,Training,2053,Hyderabad,no
+32,DivisionX,2069,Hyderabad,no
+2702,DivisionX,2069,New Delhi,no
+1740,Technology,2070,Birmingham,no
+1951,DivisionY,2072,Birmingham,no
+2568,DivisionY,2072,Birmingham,no
+2401,Facilities,2073,Birmingham,no
+3056,Facilities,2073,Birmingham,no
+3091,Facilities,2073,Birmingham,no
+1349,Facilities,2073,Birmingham,no
+2755,Facilities,2073,Birmingham,no
+739,Facilities,2073,Birmingham,no
+751,Facilities,2073,Birmingham,no
+2431,Facilities,2073,Birmingham,no
+1465,Facilities,2073,Birmingham,no
+92,Facilities,2073,Birmingham,no
+967,Facilities,2073,Birmingham,no
+3069,DivisionY,2076,New York,yes
+1977,DivisionY,2076,Birmingham,no
+911,DivisionY,2076,Birmingham,yes
+1579,DivisionY,2076,Birmingham,no
+2079,DivisionY,2076,New York,no
+2143,DivisionY,2076,Birmingham,no
+944,Technology,2077,Manila,no
+1836,Technology,2077,Manila,no
+2563,Technology,2077,Manila,no
+2086,Technology,2077,Manila,no
+2984,Technology,2077,Manila,no
+484,Technology,2077,Manila,no
+2388,Technology,2077,Manila,no
+2247,Technology,2077,Manila,no
+2572,Technology,2082,Manila,no
+1551,Technology,2082,Manila,no
+2194,Technology,2082,Manila,no
+1406,Technology,2082,Manila,no
+1458,Technology,2082,Manila,no
+2060,Technology,2082,Manila,no
+1436,Technology,2082,Manila,no
+1981,Technology,2084,Birmingham,no
+2805,Technology,2084,New Delhi,no
+373,Technology,2084,India Operations Centre,no
+141,Technology,2084,New Delhi,no
+2993,Technology,2084,New Delhi,no
+2751,Technology,2084,New Delhi,no
+1203,Technology,2084,New Delhi,no
+718,Technology,2084,New Delhi,no
+2914,Technology,2084,Birmingham,no
+118,Technology,2084,New Delhi,no
+732,Technology,2084,New Delhi,no
+1601,Training,2091,Birmingham,no
+2117,Training,2091,Birmingham,no
+1566,Training,2091,Birmingham,no
+1802,Finance,2092,Manila,no
+983,Finance,2092,Manila,no
+2537,Technology,2093,Manila,no
+165,Technology,2093,Manila,no
+2352,DivisionX,2098,New York,no
+1416,DivisionX,2098,Birmingham,no
+548,Finance,2103,Birmingham,no
+2819,Finance,2103,Birmingham,no
+1437,Finance,2103,Birmingham,no
+2283,Technology,2103,Birmingham,no
+2920,Operations,2103,Birmingham,no
+528,Finance,2103,Singapore,no
+1286,Operations,2103,Birmingham,no
+1298,Operations,2103,Birmingham,no
+184,Customer Services,2103,Birmingham,no
+15,Change Management,2103,New York,no
+1652,Technology,2110,Birmingham,no
+313,DivisionX,2110,New Delhi,no
+644,DivisionY,2115,Birmingham,no
+3295,DivisionY,2115,Birmingham,no
+3095,DivisionY,2115,Birmingham,no
+2531,Training,2117,Birmingham,no
+28,Training,2117,Birmingham,no
+1363,DivisionY,2120,Birmingham,no
+2512,DivisionY,2120,Birmingham,no
+691,DivisionY,2120,Birmingham,yes
+463,DivisionY,2120,Birmingham,no
+3148,DivisionY,2120,Birmingham,no
+699,DivisionY,2120,Birmingham,no
+1123,Technology,2122,Birmingham,no
+1644,DivisionX,2124,Birmingham,no
+210,DivisionX,2124,Birmingham,no
+1094,DivisionX,2124,Birmingham,no
+3068,DivisionX,2124,Birmingham,no
+1325,DivisionX,2124,Birmingham,no
+683,DivisionX,2124,Madrid,no
+2895,DivisionX,2124,Birmingham,no
+1041,DivisionX,2124,Birmingham,no
+925,DivisionX,2124,Birmingham,yes
+2943,DivisionY,2130,Birmingham,no
+533,DivisionY,2130,Birmingham,no
+2137,DivisionY,2130,Birmingham,no
+1637,Customer Services,2144,Madrid,no
+3055,DivisionX,2144,Madrid,no
+1898,DivisionX,2148,Birmingham,no
+3198,DivisionX,2148,Birmingham,no
+2249,DivisionX,2148,Birmingham,no
+1002,DivisionX,2148,Birmingham,no
+243,DivisionX,2148,Birmingham,no
+1952,DivisionX,2148,Birmingham,no
+2624,DivisionX,2148,Birmingham,no
+1276,DivisionX,2148,Birmingham,no
+637,DivisionY,2155,New York,no
+3260,DivisionY,2155,New York,no
+36,DivisionY,2155,New York,no
+2571,HR,2160,Manila,no
+1669,HR,2160,Manila,no
+402,HR,2160,Manila,no
+3010,HR,2160,Manila,no
+1582,HR,2160,Manila,no
+269,DivisionY,2164,Bengaluru,no
+1232,DivisionY,2164,Hyderabad,no
+607,Training,2165,Cape Town,no
+2937,Training,2165,Cape Town,no
+2699,Training,2165,Cape Town,no
+2213,Training,2165,Cape Town,no
+1656,Training,2165,Cape Town,no
+2441,Training,2166,Birmingham,no
+3066,Training,2166,Birmingham,no
+522,DivisionX,2168,New York,yes
+608,DivisionX,2168,New York,no
+2416,DivisionX,2168,New York,no
+1859,Training,2168,New York,no
+2787,DivisionX,2168,New York,no
+1047,Communications,2172,Birmingham,no
+2667,Communications,2172,Birmingham,no
+349,DivisionX,2176,Guangzhou,no
+578,DivisionX,2176,Guangzhou,no
+749,DivisionX,2176,Guangzhou,no
+407,DivisionX,2176,Hong Kong,no
+1828,DivisionX,2176,Guangzhou,no
+3305,DivisionX,2176,Beijing,no
+546,Finance,2177,Birmingham,no
+1684,Finance,2177,Birmingham,no
+693,DivisionX,2180,Madrid,no
+2975,DivisionY,2184,Birmingham,no
+3134,DivisionX,2187,Hyderabad,no
+108,DivisionX,2187,New Delhi,no
+1536,DivisionX,2187,Hyderabad,no
+345,DivisionX,2187,New Delhi,no
+769,DivisionX,2187,Mumbai,no
+2935,DivisionX,2187,New Delhi,no
+1187,DivisionX,2187,Bengaluru,no
+1032,DivisionX,2187,New Delhi,no
+361,Technology,2193,Birmingham,no
+2848,Technology,2193,Birmingham,no
+2832,Technology,2193,Birmingham,no
+2835,Technology,2193,Birmingham,no
+2125,Training,2196,Port Melbourne,no
+415,Training,2196,Port Melbourne,no
+994,Training,2196,Port Melbourne,no
+3326,DivisionY,2201,New Delhi,no
+956,DivisionY,2201,New Delhi,no
+1160,DivisionY,2201,New Delhi,no
+1870,DivisionY,2210,Birmingham,no
+1993,DivisionY,2211,Birmingham,no
+3062,DivisionX,2212,Lima,no
+1023,DivisionX,2212,Lima,no
+3212,DivisionX,2212,Lima,no
+2627,DivisionX,2212,Lima,no
+1717,DivisionX,2212,Lima,no
+409,Training,2213,Cape Town,no
+1547,Training,2213,Cape Town,no
+1159,Training,2213,Cape Town,no
+1033,Training,2213,Gauteng,no
+1831,Training,2213,Cape Town,no
+257,Training,2213,Cape Town,no
+1516,Training,2213,Gauteng,no
+3016,Technology,2216,Manila,no
+1728,Technology,2216,Manila,no
+1605,Technology,2216,Manila,no
+2696,Technology,2216,Manila,no
+849,Technology,2216,Manila,no
+3052,Technology,2216,Manila,no
+964,Technology,2216,Manila,no
+2809,DivisionX,2224,Sydney,no
+2782,Training,2228,Birmingham,no
+2979,Training,2228,Birmingham,no
+441,Training,2228,Birmingham,no
+552,Training,2228,Birmingham,no
+2270,Training,2228,Birmingham,no
+509,Training,2228,Pakistan,no
+1005,Training,2228,Birmingham,no
+772,DivisionY,2238,Cape Town,no
+189,DivisionX,2240,Birmingham,no
+305,DivisionX,2240,Birmingham,no
+1,DivisionX,2245,Birmingham,no
+2797,DivisionX,2251,Mexico City,no
+551,DivisionY,2255,New York,no
+1205,DivisionY,2255,New York,no
+2248,DivisionY,2255,Birmingham,no
+1386,DivisionY,2255,Birmingham,no
+2095,DivisionY,2255,Birmingham,no
+970,Training,2256,Birmingham,no
+2400,Training,2256,Birmingham,no
+928,DivisionX,2259,Birmingham,no
+1720,DivisionX,2259,Birmingham,no
+2898,Customer Services,2260,Port Melbourne,no
+1231,Operations,2260,Port Melbourne,no
+1626,DivisionY,2263,Birmingham,no
+86,DivisionY,2263,Birmingham,no
+233,DivisionY,2263,India Operations Centre,no
+30,DivisionY,2263,India Operations Centre,no
+1499,DivisionY,2263,Birmingham,no
+1299,DivisionY,2263,India Operations Centre,no
+440,DivisionY,2263,Birmingham,no
+2289,Training,2270,Birmingham,no
+1712,Training,2270,Birmingham,yes
+2739,Training,2270,Birmingham,no
+935,Training,2270,Birmingham,no
+1157,Training,2270,Birmingham,yes
+1224,Training,2270,Birmingham,no
+33,DivisionY,2278,New York,no
+1889,Technology,2283,Birmingham,no
+1775,Training,2298,Birmingham,no
+1744,Training,2298,Birmingham,no
+642,Training,2298,Birmingham,no
+1369,Training,2298,Birmingham,no
+2256,Training,2298,Birmingham,no
+1350,Training,2298,Birmingham,no
+1754,Training,2298,Birmingham,no
+419,DivisionX,2299,Birmingham,no
+1950,DivisionX,2299,Birmingham,no
+629,DivisionX,2299,Madrid,no
+2908,DivisionX,2299,Birmingham,no
+3354,Finance,2304,Madrid,no
+2658,Facilities,2310,New York,no
+300,Facilities,2310,New York,no
+232,Facilities,2310,New York,no
+858,DivisionY,2312,Birmingham,no
+3159,DivisionY,2312,Birmingham,no
+542,DivisionY,2312,Birmingham,no
+3181,DivisionY,2312,Birmingham,no
+2317,DivisionY,2312,Birmingham,no
+2387,DivisionY,2312,Birmingham,no
+222,DivisionY,2312,Birmingham,no
+2807,DivisionX,2315,Quito,no
+1081,DivisionX,2315,Quito,no
+1385,Training,2321,New Delhi,no
+2069,Training,2321,New Delhi,no
+2278,DivisionY,2323,New York,no
+968,DivisionY,2323,Birmingham,no
+1992,DivisionY,2323,Birmingham,no
+1673,DivisionY,2323,Birmingham,no
+2769,DivisionY,2323,Birmingham,no
+2440,DivisionY,2323,Singapore,no
+1592,DivisionX,2335,Birmingham,no
+1407,DivisionX,2335,Birmingham,no
+3256,Technology,2336,Birmingham,no
+2122,Technology,2336,Birmingham,no
+495,Technology,2336,Birmingham,no
+3309,Technology,2336,Birmingham,no
+2918,Technology,2336,Birmingham,no
+1000,DivisionY,2340,Athens,no
+3117,DivisionY,2348,New York,no
+187,DivisionY,2356,Birmingham,no
+2439,DivisionX,2357,Birmingham,no
+1279,DivisionY,2360,New York,no
+991,DivisionY,2360,Birmingham,no
+390,DivisionY,2360,Birmingham,no
+1263,DivisionY,2360,Birmingham,yes
+2120,DivisionY,2360,Birmingham,no
+3109,DivisionY,2360,New York,no
+917,DivisionY,2360,New York,no
+351,DivisionY,2360,Birmingham,no
+2670,DivisionY,2360,Port Melbourne,no
+1129,DivisionY,2360,New York,no
+857,DivisionY,2360,New Delhi,no
+2446,DivisionY,2360,Beijing,no
+1068,DivisionX,2363,Birmingham,no
+3,DivisionX,2363,Birmingham,no
+592,DivisionX,2363,Birmingham,no
+1765,DivisionX,2363,Birmingham,no
+447,DivisionX,2363,Birmingham,no
+2477,DivisionY,2380,Birmingham,no
+2017,DivisionY,2380,Birmingham,no
+646,DivisionY,2380,Birmingham,no
+595,DivisionY,2380,Birmingham,no
+3352,Technology,2382,Birmingham,no
+1923,Technology,2382,Birmingham,no
+2778,Technology,2382,Manila,no
+2912,Technology,2382,Manila,no
+1180,Technology,2382,Birmingham,no
+534,Technology,2382,Birmingham,no
+2922,DivisionX,2385,Birmingham,no
+429,DivisionX,2385,Madrid,no
+754,DivisionX,2386,Istanbul,no
+841,HR,2389,New York,no
+1204,HR,2389,New York,no
+975,Training,2390,Cape Town,no
+2639,Training,2390,Cape Town,no
+1932,Training,2390,Cape Town,no
+797,Training,2390,Cape Town,no
+3257,Training,2396,New Delhi,no
+3189,Training,2396,New Delhi,no
+1132,Training,2396,New Delhi,no
+835,Training,2396,New Delhi,no
+1144,DivisionX,2398,Mexico City,no
+2417,DivisionX,2398,Mexico City,no
+2526,DivisionX,2398,Mexico City,no
+3142,Technology,2410,Manila,no
+2764,Technology,2410,Manila,no
+2611,Technology,2413,Manila,no
+602,Technology,2413,Manila,no
+1913,DivisionZ,2413,Manila,no
+1576,Technology,2413,Manila,no
+1537,DivisionX,2416,New York,no
+2659,DivisionX,2416,New York,no
+796,DivisionX,2416,New York,no
+1715,DivisionX,2416,New York,no
+381,DivisionX,2416,New York,no
+1958,Training,2418,Port Melbourne,no
+512,DivisionY,2418,Port Melbourne,no
+2861,Training,2418,Port Melbourne,no
+1448,Training,2418,Port Melbourne,no
+596,Training,2418,Port Melbourne,no
+2982,Customer Services,2419,Manila,no
+2558,Customer Services,2419,Manila,no
+125,Customer Services,2419,Manila,no
+1459,Customer Services,2419,Manila,no
+3329,Customer Services,2419,Manila,no
+404,Customer Services,2419,Manila,no
+876,Customer Services,2419,Manila,no
+1540,Customer Services,2419,Manila,no
+2183,Customer Services,2419,Manila,no
+618,Customer Services,2419,Manila,no
+82,DivisionY,2422,New York,no
+1593,DivisionY,2422,New York,no
+756,DivisionY,2422,Birmingham,no
+2927,DivisionY,2422,Birmingham,no
+2931,DivisionY,2422,Athens,no
+1120,DivisionY,2422,Birmingham,no
+368,DivisionY,2422,Birmingham,no
+1261,DivisionY,2422,New York,no
+976,DivisionY,2446,Beijing,no
+1989,DivisionY,2446,Beijing,no
+1480,DivisionY,2446,Tokyo,no
+318,DivisionY,2446,Beijing,no
+1087,DivisionY,2446,Taiwan,no
+2968,DivisionY,2446,Beijing,no
+1370,DivisionY,2446,Singapore,no
+3112,DivisionY,2446,Seoul,no
+1747,DivisionY,2446,Shanghai,no
+2119,Technology,2455,Birmingham,yes
+105,Technology,2455,Birmingham,no
+2034,Technology,2455,Birmingham,no
+932,Technology,2455,Manila,no
+1924,Technology,2455,Birmingham,no
+2820,Technology,2455,Birmingham,no
+1251,Technology,2455,Birmingham,no
+223,Technology,2455,Birmingham,no
+2532,Technology,2455,Birmingham,yes
+3008,Technology,2458,Manila,no
+67,Training,2466,Qatar,no
+896,DivisionX,2466,Dubai,no
+2987,DivisionX,2466,Dubai,no
+1514,Training,2466,Egypt,no
+297,DivisionX,2466,Saudi Arabia,no
+565,DivisionX,2466,Saudi Arabia,no
+1529,Training,2466,Dubai,no
+3241,DivisionX,2469,Quito,no
+242,DivisionX,2469,Quito,no
+2893,Technology,2471,Manila,no
+804,Technology,2471,Manila,no
+1227,Technology,2471,Manila,no
+687,Technology,2471,Manila,no
+2853,Technology,2471,Manila,no
+1216,Technology,2471,Manila,no
+2197,DivisionY,2477,Birmingham,no
+1734,DivisionY,2477,Birmingham,no
+3348,DivisionY,2477,Birmingham,no
+1011,DivisionX,2481,Rio de Janeiro,no
+1903,DivisionX,2484,New York,no
+1614,Technology,2488,Manila,no
+2382,Technology,2488,Birmingham,no
+226,Technology,2488,Manila,no
+337,Technology,2488,Birmingham,no
+2138,Operations,2490,New Delhi,no
+1307,Customer Services,2490,New Delhi,no
+2257,Customer Services,2490,New Delhi,no
+1773,DivisionY,2507,New Delhi,no
+3231,DivisionY,2507,New Delhi,no
+2129,DivisionY,2507,New Delhi,no
+142,DivisionY,2507,New Delhi,no
+2368,DivisionY,2507,New Delhi,no
+230,DivisionY,2511,Kolkata,no
+2929,DivisionY,2511,Kolkata,no
+1679,DivisionY,2512,New York,no
+46,DivisionY,2513,Birmingham,no
+1303,DivisionY,2513,New York,no
+2941,DivisionY,2513,Birmingham,no
+1705,Technology,2516,Birmingham,no
+2305,Finance,2520,Birmingham,no
+2775,Finance,2520,Birmingham,no
+2258,Technology,2521,Manila,no
+605,Technology,2521,Manila,no
+862,Technology,2521,Manila,no
+2228,Training,2527,Birmingham,no
+2165,Training,2527,Cape Town,no
+1085,Training,2527,Port Melbourne,no
+929,Training,2527,New Delhi,no
+1316,Training,2527,Birmingham,no
+1126,Training,2527,Birmingham,no
+2762,Training,2527,Birmingham,no
+1360,DivisionY,2528,Beijing,no
+1983,Technology,2535,Birmingham,no
+1884,Technology,2535,Birmingham,no
+537,Technology,2535,Birmingham,no
+1020,Technology,2535,Birmingham,no
+139,Technology,2535,Birmingham,no
+320,Technology,2535,Birmingham,no
+364,Technology,2535,Manila,no
+1761,Technology,2535,Birmingham,no
+2296,Technology,2535,Birmingham,no
+2583,Technology,2535,Birmingham,no
+733,Technology,2540,Birmingham,yes
+2010,Technology,2540,Manila,no
+2216,Technology,2540,Manila,no
+2330,Training,2544,Port Melbourne,no
+3032,Training,2544,Port Melbourne,no
+2381,Training,2544,Port Melbourne,no
+112,Technology,2548,Birmingham,no
+3342,Technology,2548,Birmingham,yes
+2065,Technology,2548,India Operations Centre,no
+1555,Technology,2548,India Operations Centre,no
+2365,Legal,2553,Birmingham,no
+3303,DivisionY,2555,New York,no
+2056,DivisionY,2555,New York,no
+2427,DivisionY,2555,New York,no
+3103,DivisionY,2562,Birmingham,no
+1632,Technology,2566,Birmingham,no
+3074,Technology,2566,Birmingham,no
+1988,Technology,2566,Birmingham,no
+1028,Technology,2566,Birmingham,no
+2974,Training,2573,New Delhi,no
+2053,Training,2573,Mumbai,no
+335,Training,2573,New Delhi,no
+663,Training,2573,New Delhi,no
+2622,Technology,2578,Birmingham,no
+391,Technology,2578,Birmingham,no
+197,Communications,2582,Birmingham,no
+2172,Communications,2582,Birmingham,no
+1093,Communications,2582,Birmingham,no
+1317,Communications,2582,Birmingham,no
+2107,Technology,2583,Birmingham,no
+820,Technology,2583,Birmingham,yes
+1440,Technology,2583,Birmingham,no
+60,Technology,2583,Birmingham,no
+1016,Technology,2583,Birmingham,no
+2508,Technology,2583,Birmingham,no
+2581,DivisionY,2584,Birmingham,no
+258,HR,2585,Birmingham,no
+1729,HR,2585,Birmingham,no
+3235,HR,2585,Mexico City,no
+215,HR,2585,Birmingham,no
+2677,HR,2585,Birmingham,no
+2438,HR,2585,Madrid,no
+2854,HR,2585,Birmingham,no
+1136,Training,2587,New Delhi,no
+635,Training,2587,New Delhi,no
+2159,Customer Services,2589,Birmingham,no
+1496,Customer Services,2589,Birmingham,no
+3120,Customer Services,2589,Birmingham,no
+1206,Customer Services,2592,Birmingham,no
+64,DivisionX,2594,Birmingham,no
+891,DivisionX,2594,Madrid,no
+2294,DivisionX,2594,Birmingham,no
+2259,DivisionX,2594,Birmingham,no
+1541,Technology,2600,Manila,no
+3187,Technology,2600,Manila,no
+2147,Technology,2600,Manila,no
+103,Technology,2600,Manila,no
+136,Technology,2600,Manila,no
+85,Technology,2600,Manila,no
+1727,Technology,2600,Manila,no
+1808,Technology,2600,Manila,no
+2864,Technology,2600,Manila,no
+776,Technology,2600,Manila,no
+3201,Technology,2600,Manila,no
+1450,Technology,2600,Manila,no
+2786,Technology,2600,Manila,no
+918,Technology,2600,Manila,no
+1519,Technology,2600,Manila,no
+832,Technology,2601,Birmingham,yes
+2455,Technology,2601,Birmingham,yes
+2884,Technology,2601,Birmingham,yes
+2773,Technology,2601,Birmingham,no
+1487,Technology,2601,Birmingham,no
+2413,Technology,2601,Manila,no
+3160,Technology,2601,Birmingham,no
+555,Technology,2601,India Operations Centre,no
+2516,Technology,2601,Birmingham,no
+1661,Technology,2601,Birmingham,no
+2614,Technology,2601,Birmingham,no
+3325,Technology,2601,Birmingham,yes
+2166,Training,2605,Birmingham,no
+486,Training,2605,Birmingham,no
+1057,Training,2605,Birmingham,no
+1409,Training,2605,Birmingham,no
+2729,Technology,2611,Manila,no
+526,Technology,2611,Manila,no
+325,Technology,2611,Manila,no
+2492,Finance,2612,Birmingham,no
+2905,Finance,2612,Birmingham,no
+1692,Finance,2612,Birmingham,no
+2520,Finance,2612,Birmingham,no
+1600,Finance,2612,Birmingham,no
+1819,Finance,2612,Singapore,no
+788,Finance,2612,Birmingham,no
+3024,Finance,2612,Birmingham,no
+1650,Finance,2612,Birmingham,no
+768,DivisionY,2613,Birmingham,no
+1839,DivisionY,2613,Birmingham,no
+2821,DivisionY,2613,Birmingham,no
+1365,Technology,2614,Birmingham,no
+543,Technology,2614,Birmingham,no
+1698,Technology,2614,Port Melbourne,no
+506,Technology,2614,Birmingham,no
+2663,Technology,2614,India Operations Centre,no
+2003,Technology,2614,Birmingham,no
+2503,Technology,2614,Hyderabad,no
+2694,Technology,2614,Birmingham,no
+1311,Technology,2614,Birmingham,no
+3094,Technology,2614,Birmingham,no
+601,Technology,2614,Birmingham,no
+1730,Technology,2614,Birmingham,no
+2802,Technology,2614,Hyderabad,no
+3013,Technology,2614,Hyderabad,no
+625,Technology,2614,Hyderabad,no
+740,Technology,2614,Hyderabad,no
+2229,Technology,2614,Hyderabad,no
+3242,Technology,2614,Birmingham,no
+1422,Technology,2614,Hyderabad,no
+801,Technology,2614,Hyderabad,no
+1560,Technology,2614,Birmingham,no
+1947,Technology,2614,Birmingham,no
+2598,Technology,2614,Birmingham,no
+403,Technology,2614,Birmingham,no
+1714,Training,2618,Nigeria,no
+990,Training,2618,Nigeria,no
+1234,Training,2618,Nigeria,no
+762,Technology,2622,Birmingham,no
+603,Technology,2622,Birmingham,no
+787,Technology,2622,Birmingham,no
+2934,Technology,2626,Manila,no
+2870,Technology,2626,Manila,no
+1706,Technology,2630,Manila,no
+3277,Technology,2630,Manila,no
+1533,Technology,2630,Manila,no
+1430,Technology,2642,Birmingham,no
+777,Technology,2642,Birmingham,no
+3044,Technology,2642,Manila,no
+1563,Technology,2642,Birmingham,yes
+3321,Technology,2642,Birmingham,yes
+502,Technology,2642,Birmingham,no
+703,Technology,2642,Birmingham,no
+3227,Technology,2642,Birmingham,no
+172,Technology,2642,Birmingham,no
+2096,Technology,2642,Birmingham,no
+2282,Technology,2648,Manila,no
+1492,Technology,2648,Manila,no
+2684,Technology,2661,Port Melbourne,no
+3202,Training,2661,Port Melbourne,no
+1780,Training,2661,Port Melbourne,no
+2595,Training,2661,Port Melbourne,no
+2697,Training,2661,Port Melbourne,no
+816,Training,2661,Port Melbourne,no
+2170,Training,2661,Port Melbourne,no
+791,Training,2661,Port Melbourne,no
+1014,Technology,2661,Port Melbourne,no
+898,DivisionY,2664,New York,no
+2501,DivisionY,2664,Birmingham,no
+511,DivisionX,2666,Birmingham,no
+1139,DivisionY,2670,Port Melbourne,no
+386,DivisionY,2670,Port Melbourne,no
+2161,DivisionY,2670,Port Melbourne,yes
+1333,DivisionY,2670,Port Melbourne,no
+3110,DivisionY,2670,Port Melbourne,no
+202,DivisionX,2678,Birmingham,no
+2014,DivisionY,2681,Birmingham,no
+1869,DivisionY,2688,Birmingham,no
+177,DivisionY,2688,Birmingham,no
+1810,DivisionY,2688,Birmingham,no
+1800,Technology,2698,Birmingham,no
+3282,Technology,2698,Birmingham,no
+1687,Technology,2698,Birmingham,no
+2850,Training,2699,Cape Town,no
+1419,Training,2699,Cape Town,no
+2390,Training,2699,Cape Town,no
+135,Training,2699,Cape Town,no
+1668,Training,2699,Cape Town,no
+2545,Training,2699,Cape Town,no
+3323,Training,2699,Cape Town,no
+1130,Training,2701,Kolkata,no
+2535,Technology,2706,Birmingham,no
+2882,Technology,2706,Birmingham,no
+1098,Technology,2706,Birmingham,no
+2631,Technology,2706,Birmingham,no
+2540,Technology,2706,Birmingham,no
+160,DivisionZ,2714,Manila,no
+2887,Technology,2714,Manila,no
+846,DivisionZ,2714,Manila,no
+1161,DivisionZ,2714,Manila,no
+367,DivisionZ,2714,Manila,no
+2888,DivisionZ,2714,Manila,no
+1330,DivisionX,2719,Ho Chi Minh City,no
+3266,DivisionX,2719,Ho Chi Minh City,no
+1704,Finance,2720,Birmingham,no
+1461,DivisionX,2723,Quito,no
+599,DivisionX,2723,Quito,no
+2315,DivisionX,2723,Quito,no
+2344,DivisionX,2723,Quito,no
+2467,DivisionX,2723,Quito,no
+2469,DivisionX,2723,Quito,no
+2743,DivisionX,2723,Quito,no
+924,DivisionY,2724,Birmingham,yes
+1013,DivisionY,2724,Birmingham,no
+660,DivisionY,2724,Birmingham,no
+3036,DivisionY,2724,Birmingham,no
+1241,DivisionX,2728,Bogota,no
+2099,DivisionX,2728,Bogota,no
+1405,DivisionX,2728,Bogota,no
+1435,DivisionX,2728,Bogota,no
+465,DivisionX,2728,Bogota,no
+3269,DivisionX,2728,Bogota,no
+2280,DivisionX,2728,Bogota,no
+1862,DivisionX,2728,Bogota,no
+1454,DivisionX,2728,Bogota,no
+1512,Customer Services,2734,New York,no
+3163,Customer Services,2734,New York,no
+1629,Customer Services,2734,New York,no
+1364,Customer Services,2734,New York,no
+174,Customer Services,2734,New York,no
+2998,Technology,2735,Manila,no
+985,Technology,2735,Manila,no
+2127,Training,2738,Kolkata,no
+2153,Training,2738,New Delhi,no
+2223,Training,2738,Kolkata,no
+1447,Training,2738,Kolkata,no
+1631,Training,2739,Birmingham,no
+110,Sales,2742,Birmingham,no
+851,Sales,2742,Birmingham,no
+1539,Sales,2742,Birmingham,no
+2515,Sales,2742,Birmingham,no
+287,Technology,2746,Kolkata,no
+3132,Technology,2746,Birmingham,no
+3184,DivisionY,2749,Port Melbourne,no
+623,DivisionY,2752,New York,no
+453,DivisionX,2754,Birmingham,no
+594,DivisionX,2754,Madrid,no
+2839,Legal,2763,Birmingham,no
+2750,DivisionY,2766,Birmingham,no
+2840,DivisionY,2766,Amsterdam,no
+1787,DivisionY,2766,Denmark,no
+286,Technology,2768,Manila,no
+2082,Technology,2768,Manila,no
+1676,Technology,2768,Manila,no
+185,Technology,2768,Manila,no
+1114,Technology,2768,Manila,no
+90,Technology,2768,Manila,no
+721,DivisionY,2776,Beijing,no
+2876,Training,2780,Birmingham,no
+2725,Training,2780,Birmingham,no
+2818,Training,2780,Birmingham,no
+256,Training,2780,Birmingham,no
+1812,Training,2783,New Delhi,no
+2959,Training,2783,New Delhi,no
+2158,Training,2783,New Delhi,no
+948,Training,2783,New Delhi,no
+2957,Training,2783,New Delhi,no
+3188,Training,2783,New Delhi,no
+299,Training,2783,New Delhi,no
+2479,Training,2783,New Delhi,no
+2701,Training,2790,Kolkata,no
+2284,Training,2790,Kolkata,no
+593,Training,2790,Kolkata,no
+1019,Finance,2795,Birmingham,no
+2177,Finance,2795,Birmingham,no
+145,Finance,2795,Singapore,no
+1127,Finance,2795,Birmingham,no
+1806,Finance,2795,Birmingham,no
+2414,Finance,2795,Birmingham,no
+2804,Finance,2795,Birmingham,no
+2961,Finance,2795,Birmingham,no
+643,DivisionX,2801,Madrid,no
+2329,DivisionX,2801,Madrid,no
+1985,Finance,2819,Birmingham,no
+2873,Finance,2819,Birmingham,no
+2092,Finance,2819,Birmingham,no
+2378,Finance,2819,Birmingham,no
+2963,Finance,2819,Birmingham,no
+1770,Finance,2819,Birmingham,no
+3089,Finance,2819,Birmingham,no
+2336,Technology,2820,Birmingham,no
+1359,Technology,2820,Birmingham,no
+41,Technology,2820,Birmingham,no
+353,Technology,2820,Birmingham,yes
+1340,Technology,2820,Birmingham,no
+1693,Technology,2820,Birmingham,no
+2991,Finance,2830,Birmingham,no
+317,Finance,2830,Birmingham,no
+3240,Finance,2830,Birmingham,no
+3105,Finance,2830,Birmingham,no
+459,DivisionY,2833,Birmingham,no
+802,DivisionY,2833,Birmingham,no
+2688,DivisionY,2833,Birmingham,no
+686,DivisionY,2833,Birmingham,no
+227,Technology,2837,Manila,no
+1695,Technology,2837,Manila,no
+50,Technology,2837,Manila,no
+1771,Technology,2837,Manila,no
+1825,Technology,2837,Manila,no
+358,Technology,2837,Manila,no
+2007,Technology,2837,Manila,no
+1571,Technology,2837,Manila,no
+3332,Technology,2837,Manila,no
+456,Technology,2837,Manila,no
+1468,Technology,2837,Manila,no
+434,DivisionY,2840,Birmingham,no
+1248,Customer Services,2842,Manila,no
+1967,Customer Services,2842,Manila,no
+458,Customer Services,2842,Manila,no
+2419,Customer Services,2842,Manila,no
+1742,Customer Services,2842,Manila,yes
+1336,Training,2850,Cape Town,no
+1713,Training,2850,Cape Town,no
+183,Training,2850,Cape Town,no
+395,Training,2850,Cape Town,no
+1788,DivisionX,2851,Seoul,no
+2518,DivisionX,2851,Seoul,no
+728,DivisionX,2851,Seoul,no
+834,Training,2861,Port Melbourne,no
+3182,Training,2861,Port Melbourne,no
+1246,DivisionX,2862,Birmingham,no
+2020,DivisionX,2862,Birmingham,no
+3315,DivisionX,2862,Birmingham,no
+763,DivisionX,2862,Birmingham,no
+3156,DivisionX,2862,New York,no
+1911,DivisionX,2863,Birmingham,no
+2332,DivisionX,2863,Birmingham,no
+2337,DivisionX,2863,Birmingham,yes
+123,DivisionY,2866,Birmingham,no
+3154,DivisionY,2866,New York,no
+1236,Finance,2877,Manila,no
+2685,Finance,2877,Manila,no
+710,Technology,2881,Manila,no
+1082,Technology,2881,Manila,no
+2958,Technology,2881,Manila,no
+2311,Technology,2881,Manila,no
+2142,DivisionZ,2881,Manila,no
+2657,DivisionZ,2881,Manila,no
+1517,Technology,2881,Manila,no
+2497,Technology,2881,Manila,no
+2202,Technology,2881,Manila,no
+188,DivisionZ,2881,Manila,no
+1100,Technology,2881,Manila,no
+1503,Technology,2881,Manila,no
+1357,DivisionZ,2881,Manila,no
+2767,DivisionZ,2881,Manila,no
+1388,Technology,2882,Birmingham,no
+264,Technology,2882,Birmingham,no
+1466,Technology,2882,Manila,no
+3083,Technology,2884,Birmingham,yes
+2566,Technology,2884,Birmingham,yes
+2291,Technology,2884,Birmingham,yes
+2578,Technology,2884,Birmingham,yes
+855,Technology,2884,Manila,no
+1805,Technology,2884,Birmingham,no
+455,Technology,2884,Birmingham,no
+104,Technology,2884,Birmingham,no
+1638,Finance,2889,Birmingham,no
+923,Finance,2889,Birmingham,no
+2926,Finance,2889,Birmingham,no
+2860,Finance,2889,Birmingham,no
+384,Customer Services,2898,Port Melbourne,no
+1861,Customer Services,2898,Port Melbourne,no
+1486,Customer Services,2898,Port Melbourne,no
+3031,Customer Services,2898,Port Melbourne,no
+2033,DivisionX,2899,New York,no
+2500,Technology,2900,Manila,no
+3118,Technology,2900,Manila,no
+3279,Technology,2900,Manila,no
+2012,Technology,2900,Manila,no
+1402,DivisionX,2902,Birmingham,no
+2308,Finance,2905,Birmingham,no
+695,Finance,2905,Birmingham,no
+1782,Technology,2912,Manila,no
+1863,Technology,2912,Manila,no
+910,Technology,2912,Manila,no
+2237,Technology,2912,Manila,no
+292,Technology,2912,Manila,no
+1456,DivisionY,2915,Birmingham,no
+2687,DivisionX,2922,Mexico City,no
+698,DivisionX,2924,Turin,no
+2727,DivisionX,2924,Turin,no
+1040,DivisionX,2924,Turin,no
+2916,DivisionX,2924,Turin,no
+2575,Finance,2926,Birmingham,no
+3192,Finance,2926,New York,no
+783,Finance,2926,Birmingham,no
+63,DivisionX,2935,Hyderabad,no
+2997,DivisionX,2935,New Delhi,no
+3278,DivisionX,2935,New Delhi,no
+213,Finance,2936,Birmingham,no
+265,Training,2937,Cape Town,no
+1707,Customer Services,2937,Cape Town,no
+330,Training,2937,Cape Town,no
+3111,Customer Services,2937,Cape Town,no
+1885,Customer Services,2937,Cape Town,no
+3002,Customer Services,2937,Cape Town,no
+234,Customer Services,2937,Cape Town,no
+2746,Technology,2940,Birmingham,no
+2559,DivisionY,2943,Birmingham,no
+2676,Communications,2946,Birmingham,no
+2875,Communications,2946,Birmingham,no
+1708,Technology,2947,Birmingham,no
+315,DivisionY,2948,New York,no
+1852,DivisionY,2948,New York,no
+2394,DivisionY,2948,New York,no
+1653,DivisionY,2954,India Operations Centre,no
+1378,Training,2964,Birmingham,no
+3098,Training,2964,Birmingham,no
+2796,Training,2964,Birmingham,no
+2846,Training,2964,Birmingham,no
+1374,DivisionY,2969,New York,no
+743,Training,2974,New Delhi,no
+1356,Training,2974,New Delhi,no
+2023,Training,2974,New Delhi,no
+2396,Training,2974,New Delhi,no
+1344,Training,2974,New Delhi,no
+2587,Training,2974,New Delhi,no
+2071,Training,2974,New Delhi,no
+128,Training,2974,New Delhi,no
+2325,Finance,2976,Cape Town,no
+1039,Finance,2976,Cape Town,no
+201,Training,2976,Cape Town,no
+240,Finance,2976,Cape Town,no
+3063,Technology,2977,Birmingham,no
+2298,Training,2979,Birmingham,no
+2091,Training,2979,Birmingham,no
+319,Training,2979,Birmingham,no
+2156,Technology,2980,New Delhi,no
+1815,Technology,2980,New Delhi,no
+614,Finance,2983,Birmingham,no
+563,Finance,2983,Madrid,no
+43,Finance,2983,Sao Paulo,no
+224,Finance,2983,Mexico City,no
+42,DivisionY,2989,Birmingham,no
+1012,DivisionY,2989,New York,no
+2933,DivisionY,2989,New York,no
+56,DivisionY,2989,Birmingham,no
+1722,DivisionY,2989,New York,no
+3221,DivisionY,2989,Birmingham,no
+3097,DivisionY,2989,New York,no
+2032,DivisionY,2989,New York,no
+291,DivisionY,2989,New York,no
+2188,DivisionY,2989,New York,no
+949,DivisionY,2989,Birmingham,no
+1520,DivisionY,2996,New York,no
+3113,DivisionY,2996,New York,no
+1060,DivisionY,2996,New York,no
+2428,DivisionY,2996,New York,no
+6,Technology,2998,Manila,no
+1558,Technology,2998,Manila,no
+1753,Technology,2998,Manila,no
+2372,Technology,2998,Manila,no
+2246,Technology,2998,Manila,no
+588,DivisionY,3001,Mumbai,no
+2415,DivisionY,3001,Mumbai,no
+899,DivisionY,3001,Mumbai,no
+2353,DivisionY,3003,Birmingham,no
+529,Legal,3004,Birmingham,no
+2693,Legal,3004,Birmingham,no
+622,Legal,3004,Birmingham,no
+1399,Legal,3004,Birmingham,no
+1096,Legal,3004,Birmingham,no
+792,DivisionX,3015,Madrid,no
+875,DivisionX,3015,Madrid,no
+2703,DivisionX,3015,Madrid,no
+742,DivisionX,3015,Madrid,no
+341,DivisionX,3015,Madrid,no
+2474,DivisionX,3015,Madrid,no
+1192,DivisionX,3015,Madrid,no
+293,DivisionX,3015,Madrid,no
+1545,DivisionX,3015,Madrid,no
+1608,DivisionX,3015,Madrid,no
+741,Technology,3016,Manila,no
+2869,Technology,3016,Manila,no
+3217,Technology,3016,Manila,no
+49,Technology,3016,Manila,no
+1483,DivisionY,3019,Birmingham,no
+2464,DivisionY,3019,Birmingham,no
+2562,DivisionY,3023,Birmingham,no
+1182,DivisionY,3023,Birmingham,no
+1880,DivisionY,3023,Birmingham,no
+2672,DivisionY,3023,Birmingham,no
+2195,DivisionX,3026,Bangkok,no
+873,DivisionX,3026,Bangkok,no
+70,DivisionX,3026,Bangkok,no
+2995,DivisionX,3026,Bangkok,no
+953,DivisionX,3026,Bangkok,no
+3180,DivisionX,3027,Birmingham,no
+2678,DivisionX,3027,New York,no
+2521,Technology,3044,Manila,no
+569,Technology,3044,Manila,no
+507,Technology,3044,Manila,no
+711,Technology,3044,Manila,no
+1573,Technology,3044,Birmingham,no
+3151,Technology,3044,Birmingham,no
+2144,DivisionX,3048,Madrid,no
+344,DivisionX,3048,Madrid,no
+380,DivisionX,3048,Madrid,no
+3353,Customer Services,3048,Madrid,no
+350,DivisionX,3048,Madrid,no
+1282,Customer Services,3048,Madrid,no
+717,DivisionY,3054,Thiruvananthapuram,no
+2217,DivisionY,3054,Chennai,no
+1025,Facilities,3056,Birmingham,no
+3141,Facilities,3056,Birmingham,no
+3000,Facilities,3056,Birmingham,no
+94,Facilities,3056,Birmingham,no
+1795,Facilities,3056,Birmingham,no
+3131,Facilities,3056,Birmingham,no
+100,Facilities,3056,Birmingham,no
+1375,Technology,3061,Manila,no
+2016,Technology,3061,Manila,no
+785,Technology,3061,Manila,no
+720,Technology,3061,Manila,no
+1476,DivisionX,3068,Birmingham,no
+1297,DivisionX,3068,Birmingham,no
+941,DivisionX,3068,New York,no
+1038,DivisionX,3068,Birmingham,no
+1955,DivisionX,3068,Birmingham,no
+2628,DivisionY,3071,Birmingham,no
+13,DivisionY,3073,Birmingham,no
+1959,DivisionY,3073,Birmingham,no
+2026,DivisionY,3073,New York,no
+2064,DivisionY,3073,Birmingham,yes
+3170,Technology,3074,Birmingham,no
+1565,Technology,3074,Hyderabad,no
+842,Technology,3074,Hyderabad,no
+25,Technology,3074,Hyderabad,no
+794,Technology,3074,Chennai,no
+289,Technology,3074,Chennai,no
+872,Technology,3074,Chennai,no
+3237,DivisionX,3082,India Operations Centre,no
+963,Technology,3083,Birmingham,no
+357,Technology,3083,Birmingham,no
+2768,Technology,3083,Manila,no
+775,Technology,3083,Birmingham,yes
+1498,Technology,3083,Birmingham,no
+2837,Technology,3083,Manila,no
+2698,Technology,3083,Birmingham,no
+3307,Technology,3083,Birmingham,no
+765,DivisionY,3085,Port Melbourne,no
+3357,DivisionY,3085,Port Melbourne,no
+2749,DivisionY,3085,Port Melbourne,no
+2189,DivisionY,3085,Port Melbourne,no
+1250,DivisionY,3085,Port Melbourne,no
+814,Facilities,3091,Birmingham,no
+262,Technology,3092,Manila,no
+408,Technology,3092,Manila,no
+444,Technology,3092,Manila,no
+1680,DivisionX,3093,Mexico City,no
+654,DivisionX,3093,Mexico City,no
+2561,DivisionX,3093,Mexico City,no
+2564,DivisionX,3093,Mexico City,no
+927,DivisionX,3093,Mexico City,no
+536,DivisionX,3093,Mexico City,no
+677,DivisionX,3093,Mexico City,no
+1256,DivisionY,3095,Birmingham,no
+1376,DivisionY,3095,Birmingham,no
+171,DivisionY,3095,Birmingham,no
+1214,DivisionY,3095,Birmingham,no
+573,DivisionY,3095,Birmingham,no
+1293,DivisionY,3095,New York,no
+3023,DivisionY,3095,Birmingham,no
+2528,DivisionY,3095,Beijing,no
+1116,DivisionY,3103,Birmingham,no
+2454,DivisionY,3109,New York,no
+2843,DivisionY,3109,Birmingham,no
+504,DivisionY,3109,Birmingham,no
+2131,DivisionY,3109,New York,no
+2752,DivisionY,3109,Birmingham,no
+1942,Customer Services,3130,Birmingham,no
+532,Customer Services,3130,Birmingham,no
+2567,Customer Services,3130,Birmingham,no
+1259,Customer Services,3130,Birmingham,no
+478,Customer Services,3130,Birmingham,no
+343,Customer Services,3130,Birmingham,no
+191,Customer Services,3130,Birmingham,no
+726,DivisionX,3137,Birmingham,no
+571,DivisionX,3137,Birmingham,no
+399,DivisionX,3140,Birmingham,no
+3251,DivisionX,3140,Madrid,no
+2185,DivisionX,3140,India Operations Centre,no
+2992,DivisionX,3140,Birmingham,no
+17,DivisionX,3140,Istanbul,no
+101,DivisionX,3149,Mexico City,no
+1426,DivisionX,3149,Mexico City,no
+1853,DivisionX,3149,Mexico City,no
+2100,DivisionX,3149,Mexico City,no
+1818,DivisionX,3149,Mexico City,no
+1599,DivisionX,3149,Mexico City,no
+582,DivisionX,3149,Mexico City,no
+2673,Customer Services,3152,Birmingham,yes
+869,Technology,3152,Birmingham,no
+2232,Technology,3152,Birmingham,no
+216,Customer Services,3152,Birmingham,no
+665,DivisionX,3152,Madrid,no
+1837,Customer Services,3152,New York,no
+3133,Customer Services,3152,Birmingham,no
+76,Operations,3157,Birmingham,no
+393,Operations,3157,Birmingham,no
+421,DivisionX,3158,Bangkok,no
+621,DivisionX,3158,Bangkok,no
+2962,DivisionY,3159,Birmingham,no
+290,Technology,3160,Birmingham,no
+1147,Technology,3160,Birmingham,no
+648,DivisionX,3160,Mexico City,no
+2661,Technology,3160,Birmingham,no
+2642,Technology,3160,Birmingham,yes
+2980,Technology,3160,New Delhi,no
+561,Technology,3160,Birmingham,no
+2488,Technology,3160,Birmingham,no
+996,Technology,3160,Birmingham,no
+2706,Technology,3160,Birmingham,no
+2524,DivisionY,3161,Kolkata,no
+1662,DivisionY,3161,Mumbai,no
+2433,DivisionY,3161,New Delhi,no
+719,DivisionX,3166,Sao Paulo,no
+1929,DivisionX,3166,Sao Paulo,no
+957,DivisionX,3166,Sao Paulo,no
+3205,DivisionX,3166,Sao Paulo,no
+2041,DivisionX,3166,Sao Paulo,no
+1642,DivisionX,3166,Santiago,no
+3290,DivisionX,3166,Buenos Aires,no
+438,DivisionX,3167,Madrid,no
+1846,DivisionX,3167,Madrid,no
+1497,DivisionX,3167,Madrid,no
+2399,DivisionX,3167,Madrid,no
+3195,DivisionX,3167,Madrid,no
+2917,DivisionX,3167,Madrid,no
+2199,DivisionX,3167,Madrid,no
+1968,DivisionX,3167,Madrid,no
+2151,DivisionX,3167,Madrid,no
+886,DivisionX,3167,Madrid,no
+1518,DivisionX,3167,Madrid,no
+1382,DivisionX,3167,Madrid,no
+3250,DivisionX,3167,Madrid,no
+2858,DivisionX,3167,Madrid,no
+1155,DivisionX,3167,Madrid,no
+2498,DivisionX,3168,Mexico City,no
+974,DivisionY,3173,Birmingham,no
+2057,DivisionX,3175,Beijing,no
+2338,DivisionX,3180,Birmingham,no
+973,Customer Services,3183,Birmingham,no
+1010,Customer Services,3183,Birmingham,no
+1196,Customer Services,3183,Birmingham,no
+530,Customer Services,3183,Birmingham,no
+12,Customer Services,3183,Birmingham,no
+1732,Customer Services,3183,Birmingham,no
+1321,Customer Services,3183,Birmingham,no
+2146,Customer Services,3183,Birmingham,no
+1935,Customer Services,3183,Birmingham,no
+2345,Customer Services,3183,Birmingham,no
+1212,Customer Services,3183,Birmingham,no
+1300,Customer Services,3183,Birmingham,no
+2354,Customer Services,3183,Birmingham,no
+1511,Customer Services,3190,Kolkata,no
+539,Operations,3190,Bengaluru,no
+1606,Operations,3190,Paris,no
+1508,Operations,3190,Mumbai,no
+1980,Operations,3190,New Delhi,no
+241,Customer Services,3190,New Delhi,no
+2606,Finance,3197,Port Melbourne,no
+1467,DivisionX,3205,Sao Paulo,no
+254,DivisionX,3205,Sao Paulo,no
+2556,DivisionX,3205,Sao Paulo,no
+1046,DivisionX,3205,Sao Paulo,no
+2911,DivisionX,3205,Sao Paulo,no
+2538,DivisionX,3205,Sao Paulo,no
+2481,DivisionX,3205,Rio de Janeiro,no
+577,DivisionX,3205,Rio de Janeiro,no
+3038,DivisionX,3205,Sao Paulo,no
+894,DivisionX,3211,Madrid,no
+1750,DivisionX,3211,Birmingham,no
+237,Technology,3218,Manila,no
+134,Technology,3218,Manila,no
+143,Technology,3218,Manila,no
+285,Technology,3218,Manila,no
+166,Training,3219,Sydney,no
+2341,Training,3219,Sydney,no
+1106,Training,3219,Port Melbourne,no
+1564,Technology,3220,Manila,no
+1037,Technology,3220,Manila,no
+2522,Technology,3220,Manila,no
+1395,Technology,3220,Manila,no
+1781,Training,3228,Birmingham,no
+314,Training,3228,Birmingham,no
+220,DivisionX,3229,Birmingham,no
+2666,DivisionX,3229,Birmingham,no
+3040,DivisionX,3229,Birmingham,no
+35,HR,3235,Mexico City,no
+2747,DivisionY,3238,New York,no
+2523,DivisionY,3238,Birmingham,no
+1218,DivisionY,3238,Birmingham,yes
+2476,DivisionY,3238,Birmingham,no
+406,DivisionY,3238,Birmingham,no
+480,DivisionY,3238,Birmingham,no
+1201,DivisionX,3241,Quito,no
+2650,DivisionX,3243,Birmingham,no
+2324,DivisionX,3243,Hyderabad,no
+146,DivisionX,3247,Mexico City,no
+228,DivisionX,3247,Mexico City,no
+72,DivisionX,3247,Mexico City,no
+518,DivisionX,3247,Mexico City,no
+1854,DivisionX,3247,Mexico City,no
+2683,DivisionX,3247,Mexico City,no
+2434,DivisionX,3251,New York,no
+3343,DivisionX,3251,Madrid,no
+615,DivisionX,3251,Madrid,no
+1133,DivisionX,3251,Turin,no
+2180,DivisionX,3251,Madrid,no
+3224,DivisionX,3251,Madrid,no
+2350,DivisionY,3261,Birmingham,no
+508,DivisionY,3261,Birmingham,no
+2716,DivisionY,3261,Birmingham,no
+489,DivisionX,3263,Kuala Lumpur,no
+2015,DivisionX,3263,Kuala Lumpur,no
+1042,DivisionX,3263,Kuala Lumpur,no
+3245,Training,3263,Kuala Lumpur,no
+3030,DivisionX,3265,Mexico City,no
+2580,DivisionX,3265,Mexico City,no
+231,DivisionX,3265,Mexico City,no
+2494,DivisionX,3265,Mexico City,no
+1004,DivisionX,3265,Mexico City,no
+1408,DivisionX,3265,Mexico City,no
+1412,DivisionX,3265,Mexico City,no
+2267,DivisionX,3265,Mexico City,no
+2491,DivisionX,3265,Mexico City,no
+1907,DivisionY,3268,Birmingham,no
+3313,DivisionY,3268,Birmingham,no
+647,DivisionY,3268,Birmingham,no
+3102,DivisionY,3268,Birmingham,no
+524,DivisionY,3268,Birmingham,no
+377,DivisionY,3268,Birmingham,no
+1971,DivisionX,3269,Bogota,no
+1779,DivisionX,3273,Birmingham,no
+1621,DivisionY,3283,Birmingham,no
+1646,DivisionY,3283,Birmingham,no
+2140,DivisionY,3283,Birmingham,no
+2790,Training,3284,Kolkata,no
+3267,Training,3284,Kolkata,no
+2133,Training,3284,Kolkata,no
+1301,DivisionY,3287,New York,no
+1190,Technology,3293,Manila,no
+1737,Technology,3293,Manila,no
+219,Technology,3293,Manila,no
+3043,Technology,3293,Manila,no
+246,Technology,3293,Manila,no
+3014,DivisionY,3295,Hyderabad,no
+1066,DivisionY,3295,Hyderabad,no
+750,DivisionY,3295,India Operations Centre,no
+938,DivisionY,3295,Birmingham,no
+807,DivisionY,3296,Birmingham,no
+396,DivisionY,3296,Birmingham,no
+2066,DivisionY,3296,Birmingham,no
+284,DivisionY,3296,Birmingham,no
+757,DivisionY,3296,Birmingham,no
+1494,DivisionY,3296,Birmingham,no
+2576,DivisionY,3296,Birmingham,no
+2200,DivisionY,3312,Birmingham,no
+1634,DivisionY,3312,Birmingham,no
+1833,DivisionY,3312,New York,no
+1001,DivisionY,3312,Birmingham,no
+2339,DivisionX,3317,Athens,no
+1987,DivisionX,3317,Athens,no
+781,DivisionX,3317,Athens,no
+2651,DivisionY,3324,Birmingham,no
+164,DivisionY,3324,Birmingham,no
+1482,DivisionY,3324,France,no
+2405,DivisionY,3324,Birmingham,no
+192,DivisionY,3324,Birmingham,no
+37,DivisionY,3324,Birmingham,no
+16,Operations,3331,Birmingham,no
+1813,DivisionX,3333,Mexico City,no
+604,Training,3338,Birmingham,no
+1574,DivisionX,3347,Birmingham,no
+2486,DivisionX,3347,Birmingham,no
+22,DivisionX,3347,Birmingham,no
